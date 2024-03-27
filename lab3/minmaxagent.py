@@ -1,39 +1,11 @@
 class MinMaxAgent:
     def __init__(self, game, depth=5, my_token='o'):
-        self.game = game  # This might still be needed for other parts of the class
+        self.game = game
         self.depth = depth
         self.my_token = my_token
 
     def decide(self, game_state):
-        """
-        Decides the best move based on the current game state.
-
-        Parameters:
-        - game_state: The current state of the Connect 4 game.
-
-        Returns:
-        - An integer representing the column number into which to drop the token.
-        """
-        # Assuming find_best_move is implemented to use the Minimax algorithm
-        # and returns the best column for the next move.
         return self.find_best_move(game_state)
-
-        # Adjust the signature of find_best_move to accept the game state
-        # def find_best_move(self, game_state):
-        #     """
-        #     Finds the best move (column) to play next given the current game state.
-        #
-        #     Parameters:
-        #     - game_state: The current state of the game.
-        #
-        #     Returns:
-        #     - An integer representing the best column to play next.
-        #     """
-        #     # Implementation of finding the best move goes here
-        #     # This will likely involve calling the minimax method with the current state
-        #     best_column = None
-        #     # Your logic to determine the best column
-        #     return best_column
 
     def evaluate(self, state):
         score = 0
@@ -75,32 +47,32 @@ class MinMaxAgent:
 
         return score
 
-    def minimax(self, state, depth, alpha, beta, maximizingPlayer):
+    def minimax(self, state, depth, alpha, beta, maximizing_player):
         if depth == 0 or state.game_over:
             return self.evaluate(state)
 
-        if maximizingPlayer:
-            maxEval = float('-inf')
+        if maximizing_player:
+            max_eval = float('-inf')
             for move in state.possible_drops():
-                state_copy = state.clone()  # Assuming a method to clone the current state
+                state_copy = state.clone()
                 state_copy.drop_token(move)
                 eval = self.minimax(state_copy, depth-1, alpha, beta, False)
-                maxEval = max(maxEval, eval)
+                max_eval = max(max_eval, eval)
                 alpha = max(alpha, eval)
                 if beta <= alpha:
                     break
-            return maxEval
+            return max_eval
         else:
-            minEval = float('inf')
+            min_eval = float('inf')
             for move in state.possible_drops():
                 state_copy = state.clone()
                 state_copy.drop_token(move)
                 eval = self.minimax(state_copy, depth-1, alpha, beta, True)
-                minEval = min(minEval, eval)
+                min_eval = min(min_eval, eval)
                 beta = min(beta, eval)
                 if beta <= alpha:
                     break
-            return minEval
+            return min_eval
 
     def find_best_move(self, game_state):
         best_move = None
