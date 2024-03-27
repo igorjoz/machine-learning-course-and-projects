@@ -1,13 +1,15 @@
 class AlphaBetaAgent:
-    def __init__(self, my_token, depth=5):
+    def __init__(self, my_token, depth=5, heuristic=True):
         self.my_token = my_token
         self.depth = depth
+        self.heuristic = heuristic
 
     def evaluate(self, state):
         score = 0
-        center_column = [row[state.width // 2] for row in state.board]
-        center_count = center_column.count(self.my_token)
-        score += center_count * 3  # Center column advantage
+        if self.heuristic:
+            center_column = [row[state.width // 2] for row in state.board]
+            center_count = center_column.count(self.my_token)
+            score += center_count * 3  # Center column advantage
 
         # Helper function to count sequences
         def count_sequences(board, token, sequence_length):
@@ -32,15 +34,18 @@ class AlphaBetaAgent:
             return count
 
         # Score sequences for the agent
-        score += count_sequences(state.board, self.my_token, 4) * 100000
-        score += count_sequences(state.board, self.my_token, 3) * 10
-        score += count_sequences(state.board, self.my_token, 2) * 1
 
-        # Score sequences against the agent
+        score += count_sequences(state.board, self.my_token, 4) * 100000
+        if self.heuristic:
+            score += count_sequences(state.board, self.my_token, 3) * 10
+            score += count_sequences(state.board, self.my_token, 2) * 1
+
+            # Score sequences against the agent
         opponent_token = 'x' if self.my_token == 'o' else 'o'
         score -= count_sequences(state.board, opponent_token, 4) * 100000
-        score -= count_sequences(state.board, opponent_token, 3) * 10
-        score -= count_sequences(state.board, opponent_token, 2) * 1
+        if self.heuristic:
+            score -= count_sequences(state.board, opponent_token, 3) * 10
+            score -= count_sequences(state.board, opponent_token, 2) * 1
 
         return score
 

@@ -5,13 +5,13 @@ from alphabetaagent import AlphaBetaAgent
 
 connect4 = Connect4(width=7, height=6)
 
-agent1 = RandomAgent('o')
+# agent1 = RandomAgent('o')
 
 # agent1 = AlphaBetaAgent(my_token='o', depth=5)
 # agent2 = AlphaBetaAgent(my_token='x', depth=5)
 
-# agent1 = AlphaBetaAgent(my_token='o', depth=4)
-agent2 = AlphaBetaAgent(my_token='x', depth=4)
+agent1 = AlphaBetaAgent(my_token='o', depth=4)
+agent2 = AlphaBetaAgent(my_token='x', depth=4, heuristic=False)
 
 while not connect4.game_over:
     connect4.draw()

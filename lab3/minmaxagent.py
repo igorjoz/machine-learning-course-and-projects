@@ -1,5 +1,5 @@
 class MinMaxAgent:
-    def __init__(self, game, depth=5, my_token='o'):
+    def __init__(self, game, depth=4, my_token='o'):
         self.game = game
         self.depth = depth
         self.my_token = my_token
@@ -41,7 +41,6 @@ class MinMaxAgent:
         score += count_sequences(state.board, self.my_token, 4) * 100000  # Winning condition
         score -= count_sequences(state.board, 'x', 4) * 100000  # Opponent's winning condition
 
-        # Potential 3-in-a-row sequences for the agent and the opponent
         score += count_sequences(state.board, self.my_token, 3) * 10
         score -= count_sequences(state.board, 'x', 3) * 10
 
