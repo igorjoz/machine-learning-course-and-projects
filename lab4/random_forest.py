@@ -23,9 +23,11 @@ class RandomForest:
 
     def predict(self, X):
         tree_predictions = []
+
         for tree in self.forest:
             tree_predictions.append(tree.predict(X))
         forest_predictions = list(map(lambda x: sum(x) / len(x), zip(*tree_predictions)))
+
         return forest_predictions
 
     def bagging(self, X, y):
@@ -33,19 +35,3 @@ class RandomForest:
         X_selected, y_selected = X[idx], y[idx]
 
         return X_selected, y_selected
-
-    # def bagging(self, X, y):
-    #     X_selected, y_selected = None, None
-    #     # TODO implement bagging
-    #
-    #     return X_selected, y_selected
-    # def bagging(self, X, y):
-    #     n_samples = X.shape[0]
-    #     indices = np.random.choice(n_samples, size=n_samples, replace=True)
-    #     if "feature_subset" in self.params and self.params["feature_subset"] is not None:
-    #         n_features = X.shape[1]
-    #         features_indices = np.random.choice(n_features, size=self.params["feature_subset"], replace=False)
-    #         X_selected = X[indices][:, features_indices]
-    #         return X_selected, y[indices]
-    #     else:
-    #         return X[indices], y[indices]

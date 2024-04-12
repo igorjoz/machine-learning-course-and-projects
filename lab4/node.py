@@ -49,11 +49,11 @@ def find_best_split(X, y, feature_subset=None):
     best_split = None
     n_features = X.shape[1]
 
-    # Select a subset of features at random if feature_subset is specified
+    # IMPORTANT: select a subset of features at random if feature_subset is specified
     if feature_subset is not None and feature_subset < n_features:
         features = np.random.choice(n_features, feature_subset, replace=False)
     else:
-        features = range(n_features)  # Use all features if no subset is specified
+        features = range(n_features)  # IMPORTANT: use all features if no subset is specified
 
     for d in features:
         order = np.argsort(X[:, d])
@@ -69,7 +69,7 @@ def find_best_split(X, y, feature_subset=None):
     if best_split is None:
         return None, None
 
-    # Calculate the value to split at by finding the mean of the values at the best index and its next element
+    # IMPORTANT: calculate the value to split at by finding the mean of the values at the best index and its next element
     split_feature, split_index = best_split
     if split_index < len(X) - 1:
         best_value = (X_sorted[split_index, split_feature] + X_sorted[split_index + 1, split_feature]) / 2

@@ -6,7 +6,7 @@ from load_data import generate_data, load_titanic
 
 
 def main():
-    np.random.seed(123)
+    np.random.seed(4289)
 
     train_data, test_data = load_titanic()
 
@@ -21,7 +21,10 @@ def main():
     dt.evaluate(*test_data)
 
     print("\nRandom forest")
-    rf = RandomForest({"ntrees": 10, "feature_subset": 5, "depth": 24})
+    # rf = RandomForest({"ntrees": 10, "feature_subset": 5, "depth": 24})
+    # rf = RandomForest({"ntrees": 30, "feature_subset": 5, "depth": 24})
+    # rf = RandomForest({"ntrees": 50, "feature_subset": 5, "depth": 30})
+    rf = RandomForest({"ntrees": 50, "feature_subset": 6, "depth": 30})
     # rf = RandomForest({"ntrees": 3, "feature_subset": 4, "depth": 24})
     rf.train(*train_data)
 

@@ -18,6 +18,8 @@ class DecisionTree:
 
     def predict(self, X):
         prediction = []
+
         for x in X:
             prediction.append(self.root_node.predict(x))
+
         return prediction
