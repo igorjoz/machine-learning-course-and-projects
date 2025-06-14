@@ -1,0 +1,5259 @@
+[
+    { "label": "spam", "text": "Wygrywasz milion złotych – odbierz nagrodę teraz!" },
+    { "label": "spam", "text": "Zdobądź darmowy iPhone w ciągu 24 godzin!" },
+    { "label": "spam", "text": "Pilne: Twoje konto bankowe zostanie zamknięte, kliknij link!" },
+    { "label": "spam", "text": "Ostatnia szansa na 90% rabatu na wszystkie produkty!" },
+    { "label": "spam", "text": "Gratulacje! Jesteś wybrany do udziału w losowaniu!" },
+    { "label": "spam", "text": "Zwiększ swoje szanse na sukces finansowy – darmowy kurs!" },
+    { "label": "spam", "text": "Twoje hasło wygasa – zaktualizuj je natychmiast!" },
+    { "label": "spam", "text": "Zyskaj dodatkowe 5000 zł miesięcznie pracując w domu!" },
+    { "label": "spam", "text": "Kliknij, aby zobaczyć nagranie z Twojego samochodu!" },
+    { "label": "spam", "text": "Otrzymaj 30 dni darmowego dostępu do ekskluzywnego VIP!" },
+    { "label": "spam", "text": "Uwaga! Wykryto podejrzaną aktywność na Twoim koncie." },
+    { "label": "spam", "text": "Promocja kończy się dziś – zamów już teraz!" },
+    { "label": "spam", "text": "Odbierz bezpłatny e-book o zarabianiu online!" },
+    { "label": "spam", "text": "Twoje zamówienie oczekuje na potwierdzenie – kliknij tutaj!" },
+    { "label": "spam", "text": "Zdobądź dostęp do sekretnych ofert nurkowych!" },
+    { "label": "spam", "text": "Otrzymaj zwrot VAT-u w ciągu 48 godzin!" },
+    { "label": "spam", "text": "Ujawniamy 5 sekretów szybkiego wzrostu dochodów!" },
+    { "label": "spam", "text": "Kliknij, jeśli chcesz więcej informacji o kredytach!" },
+    { "label": "spam", "text": "Zyskaj darmowe wejściówki na koncert ulubionego artysty!" },
+    { "label": "spam", "text": "Twoje dane są zagrożone – zaktualizuj zabezpieczenia!" },
+    { "label": "spam", "text": "Wypróbuj nasz rewolucyjny suplement odchudzający!" },
+    { "label": "spam", "text": "Kup tanie leki bez recepty – wysyłka gratis!" },
+    { "label": "spam", "text": "Rejestracja na webinar o inwestowaniu – miejsca ograniczone!" },
+    { "label": "spam", "text": "Otrzymaj kupon na 100 zł do popularnego sklepu!" },
+    { "label": "spam", "text": "Uwaga, ostatni statystyki Twojego e-maila są katastrofalne!" },
+    { "label": "spam", "text": "Zainwestuj w kryptowaluty – przewodnik za darmo!" },
+    { "label": "spam", "text": "Sprawdź, kto oglądał Twój profil na Facebooku!" },
+    { "label": "spam", "text": "Odbierz nagrodę za uzupełnienie krótkiej ankiety!" },
+    { "label": "spam", "text": "Wyłącz reklamy na zawsze – pobierz naszą aplikację!" },
+    { "label": "spam", "text": "Ekskluzywna oferta wakacji last minute – rezerwuj teraz!" },
+    { "label": "spam", "text": "Uwaga: otrzymałeś pilną wiadomość od banku!" },
+    { "label": "spam", "text": "Zdobądź nowy samochód na raty 0%!" },
+    { "label": "spam", "text": "Kliknij, aby odebrać prezent urodzinowy!" },
+    { "label": "spam", "text": "Tylko dziś: darmowa aktualizacja oprogramowania!" },
+    { "label": "spam", "text": "Odkryj sekret wiecznej młodości – darmowa próbka!" },
+    { "label": "spam", "text": "Twoje zamówienie zaginęło – kliknij, by odzyskać!" },
+    { "label": "spam", "text": "Otrzymaj zwrot podatku w 3 prostych krokach!" },
+    { "label": "spam", "text": "Zyskaj dostęp do prywatnej grupy inwestorów!" },
+    { "label": "spam", "text": "Powiadomienie: Twoje subskrypcje wygasają!" },
+    { "label": "spam", "text": "Zgarnij darmową kartę paliwową na rok!" },
+    { "label": "spam", "text": "Odbierz bonus powitalny o wartości 200 zł!" },
+    { "label": "spam", "text": "Promocja tylko dla wybranych klientów – sprawdź!" },
+    { "label": "spam", "text": "Rezerwuj teraz – bilety w cenie poniżej kosztów!" },
+    { "label": "spam", "text": "Powiedz STOP reklamom – zamknij konto reklamowe!" },
+    { "label": "spam", "text": "Zdobywaj procent zwrotu za każde zakupy online!" },
+    { "label": "spam", "text": "Twoje pliki zostały zaszyfrowane – opłać okup!" },
+    { "label": "spam", "text": "Zainstaluj aktualizację Adobe Flash – ważne!" },
+    { "label": "spam", "text": "Zdobądź darmowy kurs programowania od ekspertów!" },
+    { "label": "spam", "text": "Ukażemy Ci, jak zarobić na giełdzie bez ryzyka!" },
+    { "label": "spam", "text": "Kliknij, by oglądać wideo, które zmieni Twoje życie!" },
+    { "label": "spam", "text": "Zyskaj darmowe wejście na prestiżową konferencję!" },
+    { "label": "spam", "text": "Twoje konto premium zostało zawieszone – działaj!" },
+    { "label": "spam", "text": "Najlepsze diety świata – darmowy przewodnik do pobrania!" },
+    { "label": "spam", "text": "Zainwestuj w nieruchomości za granicą – webinarium!" },
+    { "label": "spam", "text": "Wypróbuj naszą nową dietę cud – rezultaty gwarantowane!" },
+    { "label": "spam", "text": "Otrzymaj darmowe tokeny do gry online!" },
+    { "label": "spam", "text": "Pilne: potwierdź swoją tożsamość na portalu!" },
+    { "label": "spam", "text": "Twoje zwolnienie lekarskie zostało odrzucone!" },
+    { "label": "spam", "text": "Zwiększ prędkość internetu za pomocą jednego kliknięcia!" },
+    { "label": "spam", "text": "Weź udział w badaniu i wygraj nagrody pieniężne!" },
+    { "label": "spam", "text": "Ujawniamy, jak schudnąć 10 kg w miesiąc!" },
+    { "label": "spam", "text": "Wyjątkowa oferta: darmowy hosting na rok!" },
+    { "label": "spam", "text": "Kliknij, by zobaczyć tajne oferty lotnicze!" },
+    { "label": "spam", "text": "Otrzymaj pilny raport o stanie Twojego zdrowia!" },
+    { "label": "spam", "text": "Twoje urządzenie zostało zainfekowane – pobierz narzędzie!" },
+    { "label": "spam", "text": "Zyskaj dodatkowy dochód dzięki programowi partnerskiemu!" },
+    { "label": "spam", "text": "Rejestracja zakończona – potwierdź udział!" },
+    { "label": "spam", "text": "Sprawdź, kto wysyła Ci sekretnie wiadomości!" },
+    { "label": "spam", "text": "Promocja 1+1 na wszystkie usługi online!" },
+    { "label": "spam", "text": "Zainwestuj w złoto bez prowizji – oferta limitowana!" },
+    { "label": "spam", "text": "Otrzymaj 5 darmowych spinów w kasynie online!" },
+    { "label": "spam", "text": "Kliknij, by zobaczyć, jak zarobić na nieruchomościach!" },
+    { "label": "spam", "text": "Twoje konto e-mail zapełnione – oczyść dziś!" },
+    { "label": "spam", "text": "Szybki kredyt gotówkowy bez zaświadczeń – wniosek online!" },
+    { "label": "spam", "text": "Uzyskaj 50% rabatu na wszystkie pakiety wakacyjne!" },
+    { "label": "spam", "text": "Otrzymaj darmowy dostęp do narzędzi SEO!" },
+    { "label": "spam", "text": "Wypróbuj nasz nowy antywirus – ochrona 100%!" },
+    { "label": "spam", "text": "Kliknij, by pobrać najnowszy raport rynkowy!" },
+    { "label": "spam", "text": "Zdobądź darmowy voucher do restauracji!" },
+    { "label": "spam", "text": "Twoje loty zostały zmienione – potwierdź szczegóły!" },
+    { "label": "spam", "text": "Zainstaluj aplikację i zarabiaj na poleceniach!" },
+    { "label": "spam", "text": "Ujawniono listę najbogatszych – sprawdź swoje miejsce!" },
+    { "label": "spam", "text": "Otrzymaj pilny komunikat od operatora sieci!" },
+    { "label": "spam", "text": "Zyskaj dodatkowe 200 zł za wypełnienie formularza!" },
+    { "label": "spam", "text": "Kliknij, by zobaczyć, kto podglądał Twój profil LinkedIn!" },
+    { "label": "spam", "text": "Twoje dokumenty zostały zatwierdzone – pobierz je!" },
+    { "label": "spam", "text": "Odbierz swoją kartę podarunkową do sklepu spożywczego!" },
+    { "label": "spam", "text": "Zainwestuj w akcje z 80% zniżką – oferta limitowana!" },
+    { "label": "spam", "text": "Zdobądź darmową kartę podarunkową już teraz!" },
+    { "label": "spam", "text": "Twoja paczka czeka – kliknij tutaj, aby potwierdzić dostawę!" },
+    { "label": "spam", "text": "Zarób 5000 zł miesięcznie bez wychodzenia z domu!" },
+    { "label": "spam", "text": "Odebraliśmy Twój przelew – sprawdź szczegóły natychmiast!" },
+    { "label": "spam", "text": "Twoje konto zostało zawieszone – zaloguj się, aby przywrócić dostęp!" },
+    { "label": "spam", "text": "Masz wiadomość głosową – kliknij tutaj, by odsłuchać!" },
+    { "label": "spam", "text": "Nie przegap tej okazji – darmowy iPhone 15 tylko dziś!" },
+    { "label": "spam", "text": "Zainwestuj 100 zł i zarób 10 000 zł w tydzień!" },
+    { "label": "spam", "text": "Natychmiastowa decyzja kredytowa – bez BIK i KRD!" },
+    { "label": "spam", "text": "Twoje zdjęcie zostało udostępnione publicznie – kliknij, by zobaczyć!" },
+    { "label": "spam", "text": "Otrzymaj 90% zniżki na wszystkie produkty!" },
+    { "label": "spam", "text": "Kliknij tutaj, aby odebrać swój ekskluzywny prezent!" },
+    { "label": "spam", "text": "Twoja przeglądarka jest przestarzała – pobierz aktualizację!" },
+    { "label": "spam", "text": "Gratulacje! Wygrałeś wakacje marzeń!" },
+    { "label": "spam", "text": "Nowa wiadomość z portalu randkowego – kliknij, by odpowiedzieć!" },
+    { "label": "spam", "text": "Twój numer został wybrany – odbierz swoją nagrodę!" },
+    { "label": "spam", "text": "Zostałeś wytypowany do udziału w badaniu – zarób nawet 500 zł!" },
+    { "label": "spam", "text": "Ktoś próbował zalogować się na Twoje konto – sprawdź teraz!" },
+    { "label": "spam", "text": "Nie przegap! Tylko dziś – darmowa dostawa i 70% rabatu!" },
+    { "label": "spam", "text": "Szybki kredyt gotówkowy bez wychodzenia z domu!" },
+    { "label": "spam", "text": "Zainstaluj tę aplikację i otrzymaj darmowe bony zakupowe!" },
+    { "label": "spam", "text": "Twoje dane są zagrożone – kliknij tutaj, aby je zabezpieczyć!" },
+    { "label": "spam", "text": "Otrzymaj nagrodę za lojalność – tylko kilka kliknięć!" },
+    { "label": "spam", "text": "Twoje konto PayPal zostało tymczasowo zablokowane!" },
+    { "label": "spam", "text": "Wypełnij ankietę i zdobądź kartę do Biedronki o wartości 200 zł!" },
+    { "label": "spam", "text": "Odebraliśmy Twoją aplikację – kliknij, by potwierdzić!" },
+    { "label": "spam", "text": "Gratulacje – wygrałeś kupon Allegro o wartości 500 zł!" },
+    { "label": "spam", "text": "Nie przegap okazji życia – inwestuj w kryptowaluty już dziś!" },
+    { "label": "spam", "text": "Wygraj nowy laptop – wystarczy się zarejestrować!" },
+    { "label": "spam", "text": "Pilne: Twoje konto zostanie usunięte, jeśli nie podejmiesz działań!" },
+    { "label": "spam", "text": "Nieznana aktywność na Twoim koncie – kliknij, by sprawdzić!" },
+    { "label": "spam", "text": "Nowa metoda na szybki zysk – sprawdź szczegóły!" },
+    { "label": "spam", "text": "Kliknij, by pobrać darmowe e-booki!" },
+    { "label": "spam", "text": "Szukamy testerów nowych produktów – zgłoś się już teraz!" },
+    { "label": "spam", "text": "Kliknij tutaj, aby potwierdzić swoją rejestrację!" },
+    { "label": "spam", "text": "Zwiększ swoją moc umysłu dzięki tym prostym trikom!" },
+    { "label": "spam", "text": "Pilne: Ostatni dzień na odebranie nagrody!" },
+    { "label": "spam", "text": "Nieznana osoba dodała Cię do znajomych – sprawdź teraz!" },
+    { "label": "spam", "text": "Twój kupon rabatowy wygasa dziś o północy!" },
+    { "label": "spam", "text": "Nowy sposób na schudnięcie bez diety i ćwiczeń!" },
+    { "label": "spam", "text": "Zaskocz wszystkich – powiększ swój majątek w kilka dni!" },
+    { "label": "spam", "text": "Ekskluzywna oferta – tylko dla wybranych użytkowników!" },
+    { "label": "spam", "text": "Otrzymałeś płatność – kliknij, by odebrać środki!" },
+    { "label": "spam", "text": "Sprawdź, kto oglądał Twój profil!" },
+    { "label": "spam", "text": "Nie trać czasu – zainstaluj aplikację i zarabiaj!" },
+    { "label": "spam", "text": "Tylko dziś – darmowe próbki znanych marek!" },
+    { "label": "spam", "text": "Twoja karta kredytowa została odrzucona – zaktualizuj dane!" },
+    { "label": "spam", "text": "Zarabiaj, oglądając reklamy – sprawdź jak!" },
+    { "label": "spam", "text": "Weź udział w loterii i wygraj 100 000 zł!" },
+    { "label": "spam", "text": "Twoje zgłoszenie zostało przyjęte – kliknij, aby potwierdzić!" },
+    { "label": "spam", "text": "Nie uwierzysz, ile możesz zarobić dziennie!" },
+    { "label": "spam", "text": "Promocja na suplementy – tylko do końca dnia!" },
+    { "label": "spam", "text": "Twój komputer jest zagrożony – kliknij, by przeskanować system!" },
+    { "label": "spam", "text": "Dostałeś tajną wiadomość – sprawdź natychmiast!" },
+    { "label": "spam", "text": "Nowa wiadomość od nieznajomego – kliknij, by przeczytać!" },
+    { "label": "spam", "text": "Zacznij zarabiać już dziś – to takie proste!" },
+    { "label": "spam", "text": "Kliknij i poznaj swoją przyszłość – darmowy horoskop!" },
+    { "label": "spam", "text": "Zgarnij swoje 100 zł na start – bez ryzyka!" },
+    { "label": "spam", "text": "Twoje zamówienie nie zostało dostarczone – sprawdź dlaczego!" },
+    { "label": "spam", "text": "Twój numer został wylosowany w naszej loterii!" },
+    { "label": "spam", "text": "Zmień swoje życie dzięki tej jednej aplikacji!" },
+    { "label": "spam", "text": "Zwiększ swoją energię – nowy cudowny suplement!" },
+    { "label": "spam", "text": "Nie przegap tej okazji – limitowana oferta specjalna!" },
+    { "label": "spam", "text": "Twój profil został wyróżniony – sprawdź teraz!" },
+    { "label": "spam", "text": "Zostań milionerem dzięki prostemu systemowi!" },
+    { "label": "spam", "text": "Wygraj iPhone’a w 3 prostych krokach!" },
+    { "label": "spam", "text": "Kliknij tutaj, aby wylogować innych użytkowników!" },
+    { "label": "spam", "text": "Twoje zdjęcia są publicznie dostępne – chroń swoją prywatność!" },
+    { "label": "spam", "text": "Otrzymaj certyfikat w 24h – bez nauki!" },
+    { "label": "spam", "text": "Kliknij, by dowiedzieć się, kto cię kocha!" },
+    { "label": "spam", "text": "Nie uwierzysz, ile możesz zaoszczędzić!" },
+    { "label": "spam", "text": "Zainstaluj aplikację i odbierz nagrodę powitalną!" },
+    { "label": "spam", "text": "Wygrana czeka – potwierdź swoje dane!" },
+    { "label": "spam", "text": "Ostatnia szansa na darmowe wejściówki!" },
+    { "label": "spam", "text": "Odebraliśmy Twój wniosek – potwierdź tożsamość!" },
+    { "label": "spam", "text": "Zarabiaj bez ryzyka – wypróbuj za darmo!" },
+    { "label": "spam", "text": "Twój pakiet bezpieczeństwa wygasł – odnow teraz!" },
+    { "label": "spam", "text": "Ktoś próbuje skontaktować się z Tobą – kliknij, aby odpowiedzieć!" },
+    { "label": "spam", "text": "Zgłoś się i przetestuj nowy smartfon!" },
+    { "label": "spam", "text": "Nie trać więcej czasu – kliknij i działaj!" },
+    { "label": "spam", "text": "Przenieś się do świata luksusu – sprawdź, jak to możliwe!" },
+    { "label": "spam", "text": "Potwierdź swoje dane, aby otrzymać przelew!" },
+    { "label": "spam", "text": "Otwórz, zanim wygaśnie!" },
+    { "label": "spam", "text": "Zamów teraz i nie płać przez 30 dni!" },
+    { "label": "spam", "text": "Wielka promocja – tylko do północy!" },
+    { "label": "spam", "text": "Twój los został wybrany – zgłoś się po nagrodę!" },
+    { "label": "spam", "text": "Bezrobotny? Zarabiaj od zaraz!" },
+    { "label": "spam", "text": "Ktoś mówi o Tobie – kliknij, by się dowiedzieć!" },
+    { "label": "spam", "text": "Kliknij, by natychmiast zwiększyć swoją oglądalność!" },
+    { "label": "spam", "text": "Nie zapomnij odebrać swojej niespodzianki!" },
+    { "label": "spam", "text": "Darmowe zakupy? Tak, to możliwe!" },
+
+    { "label": "spam", "text": "Zdobądź darmową kartę podarunkową już teraz!" },
+    { "label": "spam", "text": "Kliknij tutaj i wygraj iPhone'a 15!" },
+    { "label": "spam", "text": "Twoja paczka czeka – potwierdź dane!" },
+    { "label": "spam", "text": "Gratulacje! Zostałeś wybrany do odbioru nagrody." },
+    { "label": "spam", "text": "Zarabiaj 5000 zł dziennie bez wychodzenia z domu!" },
+    { "label": "spam", "text": "Natychmiastowy dostęp do tajnej metody zarabiania!" },
+    { "label": "spam", "text": "Twój komputer jest zagrożony – kliknij, by naprawić!" },
+    { "label": "spam", "text": "Tylko dziś: zniżka 90% na suplementy diety!" },
+    { "label": "spam", "text": "Odbierz kupon rabatowy o wartości 200 zł!" },
+    { "label": "spam", "text": "Kliknij i poznaj sekret młodości bez operacji!" },
+    { "label": "spam", "text": "Zainstaluj teraz i chroń swoje dane!" },
+    { "label": "spam", "text": "Nie przegap tej wyjątkowej okazji inwestycyjnej!" },
+    { "label": "spam", "text": "Zgarnij darmowy telefon – liczba sztuk ograniczona!" },
+    { "label": "spam", "text": "Pilne! Twój dostęp zostanie zablokowany bez weryfikacji!" },
+    { "label": "spam", "text": "Szybka gotówka bez BIK i zaświadczeń – kliknij!" },
+    { "label": "spam", "text": "Zmień swoje życie – miliony czekają!" },
+    { "label": "spam", "text": "Zainwestuj 100 zł i odbierz 10 000 zł!" },
+    { "label": "spam", "text": "100% gwarancji – schudnij 15 kg w tydzień!" },
+    { "label": "spam", "text": "Nie przegap – tylko dziś 99% zniżki!" },
+    { "label": "spam", "text": "Zarejestruj się i odbierz darmowe bitcoiny!" },
+    { "label": "spam", "text": "Wygraj luksusowe wakacje dla dwóch osób!" },
+    { "label": "spam", "text": "Twoje konto bankowe zostało zawieszone – kliknij!" },
+    { "label": "spam", "text": "Sprawdź, kto Cię szukał – bezpłatnie!" },
+    { "label": "spam", "text": "Zwiększ swoje przychody już dziś – to łatwe!" },
+    { "label": "spam", "text": "Unikalna okazja – nie strać szansy na miliony!" },
+    { "label": "spam", "text": "Twoje dane są zagrożone – zabezpiecz się natychmiast!" },
+    { "label": "spam", "text": "Nowa rewolucja w odchudzaniu – spróbuj za darmo!" },
+    { "label": "spam", "text": "Kliknij i odbierz tajemniczy prezent!" },
+    { "label": "spam", "text": "Zgarnij 300 zł na zakupy w popularnym sklepie!" },
+    { "label": "spam", "text": "Nie czekaj! Wypłać gotówkę natychmiast!" },
+    { "label": "spam", "text": "Zostałeś wybrany do elitarnego programu nagród!" },
+    { "label": "spam", "text": "Szybki zysk bez ryzyka – dołącz już teraz!" },
+    { "label": "spam", "text": "Sekret miliarderów – teraz dostępny dla Ciebie!" },
+    { "label": "spam", "text": "Odebrałeś nową wiadomość – kliknij, aby przeczytać!" },
+    { "label": "spam", "text": "Zobacz, jak zarabiać bez wychodzenia z domu!" },
+    { "label": "spam", "text": "Twoja subskrypcja wygasa – przedłuż już teraz!" },
+    { "label": "spam", "text": "Zyskaj natychmiastowy rabat 80%!" },
+    { "label": "spam", "text": "Twoja karta kredytowa wymaga weryfikacji!" },
+    { "label": "spam", "text": "Uzyskaj dostęp do ekskluzywnego webinaru za darmo!" },
+    { "label": "spam", "text": "Tylko teraz – laptop za 1 zł!" },
+    { "label": "spam", "text": "Zainstaluj naszą aplikację i otrzymaj bonus!" },
+    { "label": "spam", "text": "Kliknij, aby potwierdzić swoje dane kontaktowe!" },
+    { "label": "spam", "text": "Twój numer został wylosowany!" },
+    { "label": "spam", "text": "Odkryj, jak łatwo możesz zostać milionerem!" },
+    { "label": "spam", "text": "Nie trać czasu – bonus czeka tylko 10 minut!" },
+    { "label": "spam", "text": "Wypełnij ankietę i odbierz nagrodę!" },
+    { "label": "spam", "text": "100% skuteczności – sprawdź już dziś!" },
+    { "label": "spam", "text": "Otrzymałeś wiadomość głosową – odsłuchaj teraz!" },
+    { "label": "spam", "text": "Odebrałeś bezpłatny dostęp do platformy VOD!" },
+    { "label": "spam", "text": "Twój profil został wybrany do testów!" },
+    { "label": "spam", "text": "Skorzystaj z darmowego okresu próbnego – teraz!" },
+    { "label": "spam", "text": "Zainwestuj w złoto z gwarancją zysku!" },
+    { "label": "spam", "text": "Pobierz teraz i zgarnij bonus powitalny!" },
+    { "label": "spam", "text": "Zdobądź 100 zł za rejestrację!" },
+    { "label": "spam", "text": "Uaktualnij dane, aby nie stracić konta!" },
+    { "label": "spam", "text": "Twój bilet został zarezerwowany – potwierdź teraz!" },
+    { "label": "spam", "text": "Zostań testerem produktów – zarabiaj testując!" },
+    { "label": "spam", "text": "Poznaj najlepszą dietę celebrytów!" },
+    { "label": "spam", "text": "Odbierz tajny kod rabatowy!" },
+    { "label": "spam", "text": "Zabezpiecz swoje konto przed atakiem!" },
+    { "label": "spam", "text": "Nie przegap! 1000 zł na start w kasynie online!" },
+    { "label": "spam", "text": "Otrzymaj natychmiastowe wyniki testu!" },
+    { "label": "spam", "text": "Twoje konto Apple wymaga weryfikacji!" },
+    { "label": "spam", "text": "Unikalna oferta – tylko dla wybranych użytkowników!" },
+    { "label": "spam", "text": "Zdobądź dostęp VIP za darmo!" },
+    { "label": "spam", "text": "Twój numer telefonu wygrał nagrodę!" },
+    { "label": "spam", "text": "Zainstaluj i otrzymaj 100 zł do wykorzystania!" },
+    { "label": "spam", "text": "Nie czekaj! Bonus wygasa za 2 godziny!" },
+    { "label": "spam", "text": "Zostałeś wybrany do udziału w płatnym badaniu!" },
+    { "label": "spam", "text": "Darmowy dostęp do premium tylko dziś!" },
+    { "label": "spam", "text": "Twój czas jest cenny – odbierz wynagrodzenie!" },
+    { "label": "spam", "text": "Zapisz się i weź udział w losowaniu!" },
+    { "label": "spam", "text": "Nie przegap – ostatnia szansa na nagrodę!" },
+    { "label": "spam", "text": "Masz nieodebraną wiadomość – kliknij teraz!" },
+    { "label": "spam", "text": "Nowa aplikacja do zarabiania pieniędzy!" },
+    { "label": "spam", "text": "Użyj kodu i zgarnij 300 zł!" },
+    { "label": "spam", "text": "Oferta ważna tylko przez 15 minut!" },
+    { "label": "spam", "text": "Zdobądź darmowe żetony do gry!" },
+    { "label": "spam", "text": "Twoje dane zostały wybrane do testu antywirusa!" },
+    { "label": "spam", "text": "Kliknij i poznaj swojego tajemniczego wielbiciela!" },
+    { "label": "spam", "text": "Otrzymaj specjalną ofertę przed innymi!" },
+    { "label": "spam", "text": "Zamów próbkę za darmo – tylko teraz!" },
+    { "label": "spam", "text": "Twoja rejestracja nie została zakończona – dokończ!" },
+    { "label": "spam", "text": "Darmowa dostawa przez cały miesiąc – aktywuj!" },
+    { "label": "spam", "text": "Zostań milionerem dzięki jednej decyzji!" },
+    { "label": "spam", "text": "Twój dostęp do konta został ograniczony!" },
+    { "label": "spam", "text": "Kliknij i dołącz do elitarnej grupy inwestorów!" },
+    { "label": "spam", "text": "Nie przegap ekskluzywnej oferty dla VIP!" },
+    { "label": "spam", "text": "Zainstaluj i zacznij zarabiać automatycznie!" },
+    { "label": "spam", "text": "Wygraj nowego MacBooka już dziś!" },
+    { "label": "spam", "text": "Kliknij, aby aktywować swój pakiet powitalny!" },
+    { "label": "spam", "text": "Twoje konto PayPal wymaga aktualizacji!" },
+    {
+        "label": "spam",
+        "text": "Wygrywasz 2762 złotych – odbierz nagrodę teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Zdobądź darmowy smartwatch w ciągu 3 godzin!"
+    },
+    {
+        "label": "spam",
+        "text": "Pilne: Twoje konto banku wymaga aktualizacji!"
+    },
+    {
+        "label": "spam",
+        "text": "Ostatnia szansa na 71% rabatu na abonament!"
+    },
+    {
+        "label": "spam",
+        "text": "Gratulacje! Jesteś wybrany do programu Google Drive!"
+    },
+    {
+        "label": "spam",
+        "text": "Zwiększ swoje dochody dzięki Dropbox!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje hasło do Twojego e-maila wygasło – zresetuj je teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Zyskaj dodatkowe 9034 zł miesięcznie pracując w domu!"
+    },
+    {
+        "label": "spam",
+        "text": "Kliknij, aby odebrać prezent kupon!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymaj 30 dni darmowego Netflix VIP!"
+    },
+    {
+        "label": "spam",
+        "text": "Uwaga! Wykryto nietypowe logowanie do PayPal."
+    },
+    {
+        "label": "spam",
+        "text": "Rejestracja na webinar o marketingu sieciowym – miejsca ograniczone!"
+    },
+    {
+        "label": "spam",
+        "text": "Odbierz bezpłatny e-book o rozwijaniu firmy!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainstaluj aktualizację Office – ważne!"
+    },
+    {
+        "label": "spam",
+        "text": "Kup kartę podarunkową bez VAT – oferta ważna tylko dziś!"
+    },
+    {
+        "label": "spam",
+        "text": "Wygrywasz 5184 złotych – odbierz nagrodę teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Zdobądź darmową słuchawki w ciągu 21 godzin!"
+    },
+    {
+        "label": "spam",
+        "text": "Pilne: Twoje konto Netflix wymaga aktualizacji!"
+    },
+    {
+        "label": "spam",
+        "text": "Ostatnia szansa na 89% rabatu na laptop!"
+    },
+    {
+        "label": "spam",
+        "text": "Gratulacje! Jesteś wybrany do programu Spotify!"
+    },
+    {
+        "label": "spam",
+        "text": "Zwiększ swoje dochody dzięki Twojego e-maila!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje hasło do Google Drive wygasło – zresetuj je teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Zyskaj dodatkowe 2313 zł miesięcznie pracując w domu!"
+    },
+    {
+        "label": "spam",
+        "text": "Kliknij, aby odebrać prezent vouchera!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymaj 30 dni darmowego Dropbox VIP!"
+    },
+    {
+        "label": "spam",
+        "text": "Uwaga! Wykryto nietypowe logowanie do Twojego e-maila."
+    },
+    {
+        "label": "spam",
+        "text": "Rejestracja na webinar o zdrowym odżywianiu – miejsca ograniczone!"
+    },
+    {
+        "label": "spam",
+        "text": "Odbierz bezpłatny e-book o inwestowaniu!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainstaluj aktualizację Android – ważne!"
+    },
+    {
+        "label": "spam",
+        "text": "Kup smartwatch bez VAT – oferta ważna tylko dziś!"
+    },
+    {
+        "label": "spam",
+        "text": "Wygrywasz 7429 złotych – odbierz nagrodę teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Zdobądź darmowe słuchawki w ciągu 16 godzin!"
+    },
+    {
+        "label": "spam",
+        "text": "Pilne: Twoje konto Dropbox wymaga aktualizacji!"
+    },
+    {
+        "label": "spam",
+        "text": "Ostatnia szansa na 67% rabatu na smartwach!"
+    },
+    {
+        "label": "spam",
+        "text": "Gratulacje! Jesteś wybrany do programu Office!"
+    },
+    {
+        "label": "spam",
+        "text": "Zwiększ swoje dochody dzięki Netflix!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje hasło do Spotify wygasło – zresetuj je teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Zyskaj dodatkowe 6887 zł miesięcznie pracując w domu!"
+    },
+    {
+        "label": "spam",
+        "text": "Kliknij, aby odebrać prezent karnet!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymaj 30 dni darmowego Google Drive VIP!"
+    },
+    {
+        "label": "spam",
+        "text": "Uwaga! Wykryto nietypowe logowanie do banku."
+    },
+    {
+        "label": "spam",
+        "text": "Rejestracja na webinar o zarabianiu online – miejsca ograniczone!"
+    },
+    {
+        "label": "spam",
+        "text": "Odbierz bezpłatny e-book o marketingu sieciowym!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainstaluj aktualizację macOS – ważne!"
+    },
+    {
+        "label": "spam",
+        "text": "Kup laptop bez VAT – oferta ważna tylko dziś!"
+    },
+    {
+        "label": "spam",
+        "text": "Wygrywasz 9847 złotych – odbierz nagrodę teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Zdobądź darmową kartę podarunkową w ciągu 2 godzin!"
+    },
+    {
+        "label": "spam",
+        "text": "Pilne: Twoje konto Google Drive wymaga aktualizacji!"
+    },
+    {
+        "label": "spam",
+        "text": "Ostatnia szansa na 95% rabatu na vouchera!"
+    },
+    {
+        "label": "spam",
+        "text": "Gratulacje! Jesteś wybrany do programu banku!"
+    },
+    {
+        "label": "spam",
+        "text": "Zwiększ swoje dochody dzięki Android!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje hasło do Spotify wygasło – zresetuj je teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Zyskaj dodatkowe 8056 zł miesięcznie pracując w domu!"
+    },
+    {
+        "label": "spam",
+        "text": "Kliknij, aby odebrać prezent abonament!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymaj 30 dni darmowego Apple VIP!"
+    },
+    {
+        "label": "spam",
+        "text": "Uwaga! Wykryto nietypowe logowanie do Netflix."
+    },
+    {
+        "label": "spam",
+        "text": "Rejestracja na webinar o rozwijaniu firmy – miejsca ograniczone!"
+    },
+    {
+        "label": "spam",
+        "text": "Odbierz bezpłatny e-book o zdrowym odżywianiu!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainstaluj aktualizację Windows – ważne!"
+    },
+    {
+        "label": "spam",
+        "text": "Kup vouchera bez VAT – oferta ważna tylko dziś!"
+    },
+    {
+        "label": "spam",
+        "text": "Wygrywasz 365 złotych – odbierz nagrodę teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Zdobądź darmowe słuchawki w ciągu 12 godzin!"
+    },
+    {
+        "label": "spam",
+        "text": "Pilne: Twoje konto Office wymaga aktualizacji!"
+    },
+    {
+        "label": "spam",
+        "text": "Ostatnia szansa na 87% rabatu na karnet!"
+    },
+    {
+        "label": "spam",
+        "text": "Gratulacje! Jesteś wybrany do programu macOS!"
+    },
+    {
+        "label": "spam",
+        "text": "Zwiększ swoje dochody dzięki PayPal!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje hasło do Dropbox wygasło – zresetuj je teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Zyskaj dodatkowe 1920 zł miesięcznie pracując w domu!"
+    },
+    {
+        "label": "spam",
+        "text": "Kliknij, aby odebrać prezent laptop!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymaj 30 dni darmowego Office VIP!"
+    },
+    {
+        "label": "spam",
+        "text": "Uwaga! Wykryto nietypowe logowanie do Android."
+    },
+    {
+        "label": "spam",
+        "text": "Rejestracja na webinar o inwestowaniu – miejsca ograniczone!"
+    },
+    {
+        "label": "spam",
+        "text": "Odbierz bezpłatny e-book o marketingu sieciowym!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainstaluj aktualizację Adobe Flash – ważne!"
+    },
+    {
+        "label": "spam",
+        "text": "Kup słuchawki bez VAT – oferta ważna tylko dziś!"
+    },
+    {
+        "label": "spam",
+        "text": "Wygrywasz 5782 złotych – odbierz nagrodę teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Zdobądź darmową abonament w ciągu 9 godzin!"
+    },
+    {
+        "label": "spam",
+        "text": "Pilne: Twoje konto Netflix wymaga aktualizacji!"
+    },
+    {
+        "label": "spam",
+        "text": "Ostatnia szansa na 90% rabatu na kupon!"
+    },
+    {
+        "label": "spam",
+        "text": "Gratulacje! Jesteś wybrany do programu Android!"
+    },
+    {
+        "label": "spam",
+        "text": "Zwiększ swoje dochody dzięki Office!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje hasło do Spotify wygasło – zresetuj je teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Zyskaj dodatkowe 4147 zł miesięcznie pracując w domu!"
+    },
+    {
+        "label": "spam",
+        "text": "Kliknij, aby odebrać prezent smartwatch!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymaj 30 dni darmowego macOS VIP!"
+    },
+    {
+        "label": "spam",
+        "text": "Uwaga! Wykryto nietypowe logowanie do Google Drive."
+    },
+    {
+        "label": "spam",
+        "text": "Rejestracja na webinar o zdrowym odżywianiu – miejsca ograniczone!"
+    },
+    {
+        "label": "spam",
+        "text": "Odbierz bezpłatny e-book o zarabianiu online!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainstaluj aktualizację Android – ważne!"
+    },
+    {
+        "label": "spam",
+        "text": "Kup kartę podarunkową bez VAT – oferta ważna tylko dziś!"
+    },
+    {
+        "label": "spam",
+        "text": "Wygrywasz 2501 złotych – odbierz nagrodę teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Zdobądź darmowe vouchera w ciągu 13 godzin!"
+    },
+    {
+        "label": "spam",
+        "text": "Pilne: Twoje konto Dropbox wymaga aktualizacji!"
+    },
+    {
+        "label": "spam",
+        "text": "Ostatnia szansa na 73% rabatu na laptop!"
+    },
+    {
+        "label": "spam",
+        "text": "Gratulacje! Jesteś wybrany do programu macOS!"
+    },
+    {
+        "label": "spam",
+        "text": "Zwiększ swoje dochody dzięki Amazon!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje hasło do banku wygasło – zresetuj je teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Zyskaj dodatkowe 7923 zł miesięcznie pracując w domu!"
+    },
+    {
+        "label": "spam",
+        "text": "Kliknij, aby odebrać prezent iPhone!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymaj 30 dni darmowego Android VIP!"
+    },
+    {
+        "label": "spam",
+        "text": "Uwaga! Wykryto nietypowe logowanie do Spotify."
+    },
+    {
+        "label": "spam",
+        "text": "Rejestracja na webinar o rozwijaniu firmy – miejsca ograniczone!"
+    },
+    {
+        "label": "spam",
+        "text": "Odbierz bezpłatny e-book o inwestowaniu!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainstaluj aktualizację Office – ważne!"
+    },
+    {
+        "label": "spam",
+        "text": "Kup laptop bez VAT – oferta ważna tylko dziś!"
+    },
+    {
+        "label": "spam",
+        "text": "Wygrywasz 4675 złotych – odbierz nagrodę teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Zdobądź darmowy kupon w ciągu 7 godzin!"
+    },
+    {
+        "label": "spam",
+        "text": "Pilne: Twoje konto PayPal wymaga aktualizacji!"
+    },
+    {
+        "label": "spam",
+        "text": "Ostatnia szansa na 68% rabatu na słuchawki!"
+    },
+    {
+        "label": "spam",
+        "text": "Gratulacje! Jesteś wybrany do programu Adobe Flash!"
+    },
+    {
+        "label": "spam",
+        "text": "Zwiększ swoje dochody dzięki iPhone!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje hasło do Microsoft wygasło – zresetuj je teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Zyskaj dodatkowe 5832 zł miesięcznie pracując w domu!"
+    },
+    {
+        "label": "spam",
+        "text": "Kliknij, aby odebrać prezent karnet!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymaj 30 dni darmowego Windows VIP!"
+    },
+    {
+        "label": "spam",
+        "text": "Uwaga! Wykryto nietypowe logowanie do Netflix."
+    },
+    {
+        "label": "spam",
+        "text": "Rejestracja na webinar o zdrowym odżywianiu – miejsca ograniczone!"
+    },
+    {
+        "label": "spam",
+        "text": "Odbierz bezpłatny e-book o zarabianiu online!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainstaluj aktualizację macOS – ważne!"
+    },
+    {
+        "label": "spam",
+        "text": "Kup smartwatch bez VAT – oferta ważna tylko dziś!"
+    },
+    {
+        "label": "spam",
+        "text": "Wygrywasz 1149 złotych – odbierz nagrodę teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Zdobądź darmowe słuchawki w ciągu 11 godzin!"
+    },
+    {
+        "label": "spam",
+        "text": "Pilne: Twoje konto Google Drive wymaga aktualizacji!"
+    },
+    {
+        "label": "spam",
+        "text": "Ostatnia szansa na 77% rabatu na kupon!"
+    },
+    {
+        "label": "spam",
+        "text": "Gratulacje! Jesteś wybrany do programu Spotify!"
+    },
+    {
+        "label": "spam",
+        "text": "Zwiększ swoje dochody dzięki Office!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje hasło do banku wygasło – zresetuj je teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Zyskaj dodatkowe 9501 zł miesięcznie pracując w domu!"
+    },
+    {
+        "label": "spam",
+        "text": "Kliknij, aby odebrać prezent laptop!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymaj 30 dni darmowego Netflix VIP!"
+    },
+    {
+        "label": "spam",
+        "text": "Uwaga! Wykryto nietypowe logowanie do PayPal."
+    },
+    {
+        "label": "spam",
+        "text": "Rejestracja na webinar o inwestowaniu – miejsca ograniczone!"
+    },
+    {
+        "label": "spam",
+        "text": "Odbierz bezpłatny e-book o marketingu sieciowym!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainstaluj aktualizację Android – ważne!"
+    },
+    {
+        "label": "spam",
+        "text": "Kup abonament bez VAT – oferta ważna tylko dziś!"
+    },
+    {
+        "label": "spam",
+        "text": "Wygrywasz 372 złotych – odbierz nagrodę teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Zdobądź darmową kartę podarunkową w ciągu 8 godzin!"
+    },
+    {
+        "label": "spam",
+        "text": "Pilne: Twoje konto Office wymaga aktualizacji!"
+    },
+    {
+        "label": "spam",
+        "text": "Ostatnia szansa na 84% rabatu na słuchawki!"
+    },
+    {
+        "label": "spam",
+        "text": "Gratulacje! Jesteś wybrany do programu macOS!"
+    },
+    {
+        "label": "spam",
+        "text": "Zwiększ swoje dochody dzięki Amazon!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje hasło do Spotify wygasło – zresetuj je teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Zyskaj dodatkowe 4075 zł miesięcznie pracując w domu!"
+    },
+    {
+        "label": "spam",
+        "text": "Kliknij, aby odebrać prezent smartwatch!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymaj 30 dni darmowego Dropbox VIP!"
+    },
+    {
+        "label": "spam",
+        "text": "Uwaga! Wykryto nietypowe logowanie do banku."
+    },
+    { "label": "spam", "text": "Wygrywasz milion złotych – odbierz nagrodę teraz!" },
+    { "label": "spam", "text": "Twoja paczka została wstrzymana – kliknij tutaj, aby ją odebrać." },
+    { "label": "spam", "text": "Zobacz, jak schudnąć 10 kg w tydzień – bez wysiłku!" },
+    { "label": "spam", "text": "Pilna wiadomość od banku – zaloguj się, aby nie utracić dostępu." },
+    { "label": "spam", "text": "Twoje konto zostało zablokowane – natychmiastowa weryfikacja wymagana!" },
+    { "label": "spam", "text": "Zaskakująca metoda na powiększenie dochodów – sprawdź już dziś!" },
+    { "label": "spam", "text": "Otrzymujesz 5000 zł za udział w badaniu opinii – odbierz teraz." },
+    { "label": "spam", "text": "Nie przegap tej oferty – nowy iPhone za 5 zł!" },
+    { "label": "spam", "text": "Tylko dziś! Tablet za darmo – wystarczy kliknąć!" },
+    { "label": "spam", "text": "Twój komputer jest zainfekowany – natychmiast przeskanuj system." },
+    { "label": "spam", "text": "Zarób 20 000 zł miesięcznie, pracując z domu." },
+    { "label": "spam", "text": "Nieznana osoba przelała Ci 1200 zł – sprawdź szczegóły." },
+    { "label": "spam", "text": "Otrzymujesz ekskluzywny dostęp do sekretnych inwestycji." },
+    { "label": "spam", "text": "Gratulacje! Jesteś zwycięzcą losowania." },
+    { "label": "spam", "text": "Twoja karta kredytowa zostanie zawieszona – kliknij, by zapobiec." },
+    { "label": "spam", "text": "Darmowe vouchery do Biedronki – tylko teraz!" },
+    { "label": "spam", "text": "Twoja przesyłka nie mogła zostać doręczona – potwierdź adres." },
+    { "label": "spam", "text": "Kliknij tutaj i zdobądź darmowego laptopa." },
+    { "label": "spam", "text": "Nie uwierzysz, ile możesz zyskać – sprawdź naszą ofertę!" },
+    { "label": "spam", "text": "Zabezpiecz swoje konto przed utratą danych – kliknij teraz." },
+    { "label": "spam", "text": "Zostałeś wybrany do testów najnowszego smartfona." },
+    { "label": "spam", "text": "Twoje dane zostały wykradzione – odzyskaj je już teraz!" },
+    { "label": "spam", "text": "Mega wyprzedaż! Wszystko za pół ceny – tylko dzisiaj." },
+    { "label": "spam", "text": "Zainwestuj 100 zł i zarabiaj codziennie bez ryzyka." },
+    { "label": "spam", "text": "Odbierz nagrodę lojalnościową za korzystanie z e-maila." },
+    { "label": "spam", "text": "Uwaga! Twoje konto zostanie usunięte w ciągu 24h." },
+    { "label": "spam", "text": "Nowa technologia odmładza o 20 lat – zobacz jak!" },
+    { "label": "spam", "text": "Zyskaj natychmiastowy dostęp do tajnych informacji." },
+    { "label": "spam", "text": "Twój numer został wylosowany – wygrałeś 10 000 zł!" },
+    { "label": "spam", "text": "Nie przegap okazji życia – tylko dziś darmowy kurs inwestowania." },
+    { "label": "spam", "text": "Kup bitcoina teraz i zarabiaj bez przerwy!" },
+    { "label": "spam", "text": "Ekskluzywna oferta: darmowy dostęp do premium TV." },
+    { "label": "spam", "text": "Nie odpowiadaj – po prostu kliknij i odbierz wygraną!" },
+    { "label": "spam", "text": "Zostałeś nominowany do odebrania specjalnej nagrody." },
+    { "label": "spam", "text": "Nieznany spadek czeka na Ciebie – sprawdź szczegóły." },
+    { "label": "spam", "text": "Sprawdź, kto szukał Cię w Internecie." },
+    { "label": "spam", "text": "Kliknij tutaj i poznaj sekret milionerów." },
+    { "label": "spam", "text": "Zarób fortunę dzięki prostemu systemowi online." },
+    { "label": "spam", "text": "Twoja karta podarunkowa czeka – aktywuj ją teraz!" },
+    { "label": "spam", "text": "Niebezpieczna aktywność wykryta na Twoim koncie – kliknij natychmiast!" },
+    { "label": "spam", "text": "Powiadomienie o nieodebranej przesyłce – kliknij, aby odebrać." },
+    { "label": "spam", "text": "Uzyskaj natychmiastowy dostęp do tajnej wiedzy finansowej." },
+    { "label": "spam", "text": "Zostań milionerem w 30 dni – zobacz jak." },
+    { "label": "spam", "text": "Otrzymałeś prywatną wiadomość – kliknij, aby ją przeczytać." },
+    { "label": "spam", "text": "Masz nową fakturę do opłacenia – sprawdź szczegóły." },
+    { "label": "spam", "text": "Zaakceptuj swój prezent przed upływem terminu!" },
+    { "label": "spam", "text": "Wypróbuj rewolucyjny sposób na szybkie odchudzanie!" },
+    { "label": "spam", "text": "Tylko teraz! 90% zniżki na luksusowe produkty." },
+    { "label": "spam", "text": "Niezwykła okazja – inwestycja gwarantująca sukces." },
+    { "label": "spam", "text": "Sprawdź, ile pieniędzy możesz odzyskać z podatku!" },
+    { "label": "spam", "text": "Poznaj kobiety ze swojej okolicy – bez rejestracji." },
+    { "label": "spam", "text": "Zablokowano próbę logowania – zweryfikuj swoje dane." },
+    { "label": "spam", "text": "Zostałeś wybrany do udziału w tajnym programie testowym." },
+    { "label": "spam", "text": "Zarejestruj się teraz i odbierz darmowe środki." },
+    { "label": "spam", "text": "Masz 1 nową wiadomość głosową – kliknij, aby odsłuchać." },
+    { "label": "spam", "text": "Zainstaluj tę aplikację i zacznij zarabiać już dziś!" },
+    { "label": "spam", "text": "Ktoś próbował włamać się na Twoje konto – zabezpiecz je teraz!" },
+    { "label": "spam", "text": "Otrzymujesz specjalną ofertę tylko dla VIP-ów!" },
+    { "label": "spam", "text": "Darmowy test IQ – sprawdź swój wynik już teraz!" },
+    { "label": "spam", "text": "Karta płatnicza gotowa do odbioru – aktywuj online!" },
+    { "label": "spam", "text": "Zwiększ limity na swoim koncie bez wychodzenia z domu." },
+    { "label": "spam", "text": "Nie zapłaciłeś rachunku – sprawdź szczegóły, zanim będzie za późno." },
+    { "label": "spam", "text": "Zostań testerem nowego produktu i zachowaj go na własność!" },
+    { "label": "spam", "text": "Twój pakiet został uaktualniony – potwierdź teraz." },
+    { "label": "spam", "text": "Nie czekaj – odbierz natychmiastowy bonus powitalny!" },
+    { "label": "spam", "text": "Poznaj jedyną skuteczną metodę na pasywny dochód." },
+    { "label": "spam", "text": "Pracuj zdalnie i zarabiaj bez ograniczeń." },
+    { "label": "spam", "text": "Zostałeś wytypowany do odbioru prezentu świątecznego." },
+    { "label": "spam", "text": "Kliknij teraz, by odkryć, co ukryto przed Tobą." },
+    { "label": "spam", "text": "Twój dostęp zostanie zablokowany – zaktualizuj dane." },
+    { "label": "spam", "text": "Doładuj konto i odbierz podwójny bonus." },
+    { "label": "spam", "text": "Witaj ponownie! Czeka na Ciebie niespodzianka." },
+    { "label": "spam", "text": "Zamów teraz, zapłać później – 0% prowizji!" },
+    { "label": "spam", "text": "Twój adres IP został zarejestrowany – konieczne działanie!" },
+    { "label": "spam", "text": "Masz nieodebrany przelew – kliknij, by go odebrać." },
+    { "label": "spam", "text": "Otrzymujesz kupon rabatowy – aktywuj teraz." },
+    { "label": "spam", "text": "Nieznana osoba zostawiła wiadomość – odczytaj ją już teraz." },
+    { "label": "spam", "text": "Dołącz do programu partnerskiego i zarabiaj codziennie." },
+    { "label": "spam", "text": "Wielka loteria czeka – tylko jedno kliknięcie dzieli Cię od wygranej!" },
+    { "label": "spam", "text": "Nie zapomnij odebrać swojej nagrody do końca dnia!" },
+    { "label": "spam", "text": "Tylko teraz – luksusowe wakacje za pół ceny!" },
+    { "label": "spam", "text": "Zamów darmową próbkę i zobacz efekty na własne oczy!" },
+    { "label": "spam", "text": "Zwiększ swoje szanse na sukces dzięki tej jednej rzeczy." },
+    { "label": "spam", "text": "Sprawdź, kto oglądał Twój profil ostatnio." },
+    { "label": "spam", "text": "Zaktualizuj dane logowania, zanim zostaną usunięte." },
+    { "label": "spam", "text": "Twoje konto wymaga potwierdzenia tożsamości – kliknij tutaj." },
+    { "label": "spam", "text": "Gratulacje! Dostałeś się do ekskluzywnego klubu inwestorów." },
+    { "label": "spam", "text": "Tylko dziś – darmowy dostęp do najnowszego kursu online." },
+    { "label": "spam", "text": "Otrzymałeś 2000 zł – odbierz środki natychmiast." },
+    { "label": "spam", "text": "Sprawdź, jak łatwo możesz spłacić swoje długi jednym kliknięciem!" },
+    { "label": "spam", "text": "Zainwestuj 500 zł i obserwuj, jak rośnie Twoje konto!" },
+    { "label": "spam", "text": "Nie przegap! Ostatnia szansa na darmowy kurs językowy." },
+    { "label": "spam", "text": "Zobacz, jak łatwo możesz pomnożyć swoje oszczędności." },
+    { "label": "spam", "text": "Twoje dane są zagrożone – pobierz aplikację zabezpieczającą!" },
+    { "label": "spam", "text": "Otrzymaj zwrot podatku szybciej niż kiedykolwiek!" },
+    { "label": "spam", "text": "Zostań testerem nowej platformy i zarabiaj codziennie." },
+    { "label": "spam", "text": "Darmowa konsultacja finansowa – tylko teraz!" },
+    { "label": "spam", "text": "Twój znajomy zarabia już 3000 zł tygodniowo – dołącz do niego!" },
+    { "label": "spam", "text": "Nie ignoruj tej wiadomości – Twoja przyszłość finansowa zależy od niej!" },
+    { "label": "spam", "text": "Odkryj rewolucyjne rozwiązanie na problemy ze snem." },
+    { "label": "spam", "text": "Praca zdalna dla każdego – zarobki od pierwszego dnia!" },
+    { "label": "spam", "text": "Kliknij i przekonaj się, ile naprawdę jesteś wart!" },
+    { "label": "spam", "text": "Zostań ekspertem inwestycyjnym bez doświadczenia!" },
+    { "label": "spam", "text": "Twoje zdrowie może być zagrożone – przeczytaj raport." },
+    { "label": "spam", "text": "Nie wierzysz? Sprawdź, ile zarobili inni!" },
+    { "label": "spam", "text": "Zatrzymaj inflację – zabezpiecz pieniądze w złocie!" },
+    { "label": "spam", "text": "Dzięki tej stronie zyskasz wolność finansową." },
+    { "label": "spam", "text": "Zostałeś zaproszony do elitarnej społeczności inwestorów." },
+    { "label": "spam", "text": "Otrzymujesz niepowtarzalną szansę – kliknij i skorzystaj!" },
+    { "label": "spam", "text": "Niecodzienna oferta: kup jeden, drugi gratis!" },
+    { "label": "spam", "text": "Twój profil został wybrany do tajnego testu beta." },
+    { "label": "spam", "text": "Odbierz 200 zł na zakupy spożywcze – oferta ograniczona!" },
+    { "label": "spam", "text": "Twój dostęp wygasa za 1 godzinę – odśwież teraz!" },
+    { "label": "spam", "text": "Nadchodzą nowe przepisy – sprawdź, jak się zabezpieczyć." },
+    { "label": "spam", "text": "Oszczędzaj czas i pieniądze dzięki tej jednej sztuczce!" },
+    { "label": "spam", "text": "Przejmij kontrolę nad swoim życiem finansowym już dziś!" },
+    { "label": "spam", "text": "Nieznany darczyńca chce przekazać Ci pieniądze." },
+    { "label": "spam", "text": "Zamów kartę przedpłaconą z darmowym limitem!" },
+    { "label": "spam", "text": "Zostań bohaterem swojej rodziny – zadbaj o ich przyszłość." },
+    { "label": "spam", "text": "Odzyskaj stracone środki z konta bankowego!" },
+    { "label": "spam", "text": "Ostatnie miejsca w programie dla nowych milionerów!" },
+    { "label": "spam", "text": "Już 10 000 osób skorzystało – teraz Twoja kolej!" },
+    { "label": "spam", "text": "Sprawdź, czy jesteś uprawniony do dofinansowania." },
+    { "label": "spam", "text": "Twój numer telefonu został nagrodzony w konkursie!" },
+    { "label": "spam", "text": "Nowoczesne rozwiązanie na stare długi – kliknij tutaj." },
+    { "label": "spam", "text": "Zdobądź darmowe porady prawne bez wychodzenia z domu!" },
+    { "label": "spam", "text": "Tylko dziś: dostęp do sekretów bogaczy!" },
+    { "label": "spam", "text": "Nie trać czasu – zarabiaj nawet, gdy śpisz!" },
+    { "label": "spam", "text": "Już teraz: 500 zł za samo zapisanie się!" },
+    { "label": "spam", "text": "Zarejestruj się i otrzymaj bonus powitalny." },
+    { "label": "spam", "text": "Nie przegap tej szansy – ona się nie powtórzy!" },
+    { "label": "spam", "text": "Zainstaluj aplikację i zobacz, kto obserwuje Twój profil." },
+    { "label": "spam", "text": "Twój los zależy od tej decyzji – kliknij i sprawdź." },
+    { "label": "spam", "text": "Nowe przepisy podatkowe – jak zyskać, nie tracić!" },
+    { "label": "spam", "text": "Twój sąsiad już zarabia – a Ty?" },
+    { "label": "spam", "text": "Darmowe narzędzie do kontroli wydatków – pobierz teraz!" },
+    { "label": "spam", "text": "Nie wierzysz? Sprawdź opinie użytkowników!" },
+    { "label": "spam", "text": "Szybka gotówka bez wychodzenia z domu – kliknij tutaj." },
+    { "label": "spam", "text": "Tylko dziś – zapisz się na darmowy webinar z milionerem." },
+    { "label": "spam", "text": "Sprawdź, co mówią o Tobie w Internecie." },
+    { "label": "spam", "text": "Nowy sposób na młodszy wygląd – bez operacji!" },
+    { "label": "spam", "text": "Czas ucieka – kliknij, by zablokować opłaty!" },
+    { "label": "spam", "text": "Odbierz natychmiastowy przelew za pomocą jednego kliknięcia." },
+    { "label": "spam", "text": "Nie pozwól, aby inni Cię wyprzedzili – zarejestruj się teraz!" },
+    { "label": "spam", "text": "Tylko wybrani otrzymują tę wiadomość – nie przegap jej!" },
+    { "label": "spam", "text": "Nie wierzysz, że to działa? Sprawdź sam!" },
+    { "label": "spam", "text": "Otrzymujesz darmowy dostęp na 30 dni – aktywuj teraz!" },
+    { "label": "spam", "text": "Zamknij stare konto i odbierz bonus pieniężny!" },
+    { "label": "spam", "text": "Konieczne działanie – Twoje konto wymaga aktualizacji." },
+    { "label": "spam", "text": "Już teraz – zyskaj przewagę nad innymi inwestorami!" },
+    { "label": "spam", "text": "Poznaj nowe źródło pasywnego dochodu." },
+    { "label": "spam", "text": "Kliknij tutaj, aby odblokować darmowy dostęp do systemu." },
+    { "label": "spam", "text": "Czeka na Ciebie 200 zł – nie przegap okazji!" },
+    { "label": "spam", "text": "Zostałeś automatycznie zakwalifikowany – odbierz nagrodę." },
+    { "label": "spam", "text": "Twoja decyzja zmieni Twoje życie – kliknij teraz!" },
+    { "label": "spam", "text": "Otrzymaj kartę kredytową z limitem bez sprawdzania BIK!" },
+    { "label": "spam", "text": "Zarezerwuj miejsce w najnowszym programie dochodowym!" },
+    { "label": "spam", "text": "Nieznana osoba przesłała Ci pieniądze – sprawdź konto." },
+    { "label": "spam", "text": "Oferta tylko dla Ciebie – wygasnie za 2 godziny!" },
+    { "label": "spam", "text": "Twój adres e-mail został wytypowany do specjalnej oferty." },
+    { "label": "spam", "text": "Skorzystaj z dotacji na działalność – bez wychodzenia z domu!" },
+    { "label": "spam", "text": "Najlepsza okazja tego roku – nie czekaj!" },
+    { "label": "spam", "text": "Zyskaj dostęp do narzędzia, które zmieni Twoje życie." },
+    { "label": "spam", "text": "Kliknij tutaj, aby aktywować nową funkcję konta." },
+    { "label": "spam", "text": "Twoje środki są gotowe do wypłaty – kliknij i odbierz." },
+    { "label": "spam", "text": "Zostań właścicielem kryptowalut bez inwestycji!" },
+    { "label": "spam", "text": "Czas się kończy – tylko 10 osób może skorzystać!" },
+    { "label": "spam", "text": "Ta jedna decyzja może uczynić Cię bogatym." },
+    { "label": "spam", "text": "Zmieniamy życie Polaków – dołącz do nas teraz!" },
+    { "label": "spam", "text": "Zostałeś zaproszony do elitarnego klubu zarabiających online." },
+    { "label": "spam", "text": "Nie zapomnij aktywować swojego darmowego pakietu startowego!" },
+    { "label": "spam", "text": "Sprawdź swój status i odbierz środki natychmiast." },
+    { "label": "spam", "text": "Twój kod rabatowy wygasa – użyj go, zanim zniknie." },
+    { "label": "spam", "text": "Zatrzymaj rosnące rachunki – poznaj sekret oszczędzania." },
+    { "label": "spam", "text": "Darmowy poradnik: Jak nie płacić podatków legalnie!" },
+    { "label": "spam", "text": "Twoje życie się zmieni, jeśli klikniesz w ten link." },
+    { "label": "spam", "text": "Potwierdź swoje dane, aby uniknąć dezaktywacji konta." },
+    { "label": "spam", "text": "Wygraj luksusowy samochód – tylko 1 kliknięcie!" },
+    { "label": "spam", "text": "Zaskocz rodzinę – podaruj im wycieczkę marzeń!" },
+    { "label": "spam", "text": "Darmowe konsultacje tylko dziś – zapisz się teraz!" },
+
+    {
+        "label": "spam",
+        "text": "Potwierdź swoje dane, aby uniknąć blokady konta!"
+    },
+    {
+        "label": "spam",
+        "text": "Gratulacje! Zostałeś wybrany jako zwycięzca!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoja paczka czeka na odbiór – potwierdź dane!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap – specjalna nagroda czeka na Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Zostałeś wytypowany do udziału w ekskluzywnej promocji!"
+    },
+    {
+        "label": "spam",
+        "text": "Potwierdź swoje dane, aby uniknąć blokady konta!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nieodebraną przesyłkę – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Kliknij tutaj, aby potwierdzić wygraną!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainwestuj 100 zł i zarób 10 000 zł w tydzień!"
+    },
+    {
+        "label": "spam",
+        "text": "Nieautoryzowana aktywność wykryta – działaj teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainstaluj tę aplikację i zacznij zarabiać!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainwestuj 100 zł i zarób 10 000 zł w tydzień!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoja paczka czeka na odbiór – potwierdź dane!"
+    },
+    {
+        "label": "spam",
+        "text": "Zarejestruj się teraz i otrzymaj bonus 100 zł!"
+    },
+    {
+        "label": "spam",
+        "text": "Kliknij tutaj, aby potwierdzić wygraną!"
+    },
+    {
+        "label": "spam",
+        "text": "Wprowadź swoje dane i wygraj nagrodę główną!"
+    },
+    {
+        "label": "spam",
+        "text": "Zdobądź darmową kartę podarunkową już teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymasz prezent za udział w ankiecie!"
+    },
+    {
+        "label": "spam",
+        "text": "Zostałeś wytypowany do udziału w ekskluzywnej promocji!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainwestuj 100 zł i zarób 10 000 zł w tydzień!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainstaluj tę aplikację i zacznij zarabiać!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap – specjalna nagroda czeka na Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Pilna wiadomość – Twój rachunek został zablokowany!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymasz prezent za udział w ankiecie!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto wymaga natychmiastowej weryfikacji!"
+    },
+    {
+        "label": "spam",
+        "text": "Zostałeś wytypowany do udziału w ekskluzywnej promocji!"
+    },
+    {
+        "label": "spam",
+        "text": "Zarejestruj się teraz i otrzymaj bonus 100 zł!"
+    },
+    {
+        "label": "spam",
+        "text": "Ekskluzywna oferta tylko dla naszych subskrybentów!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto e-mail zostało wytypowane do nagrody!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap – specjalna nagroda czeka na Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymujesz to zaproszenie, ponieważ zostałeś wybrany!"
+    },
+    {
+        "label": "spam",
+        "text": "Nieautoryzowana aktywność wykryta – działaj teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Nieautoryzowana aktywność wykryta – działaj teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainstaluj tę aplikację i zacznij zarabiać!"
+    },
+    {
+        "label": "spam",
+        "text": "Kliknij tutaj, aby potwierdzić wygraną!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nieodebraną przesyłkę – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Wprowadź swoje dane i wygraj nagrodę główną!"
+    },
+    {
+        "label": "spam",
+        "text": "Odzyskaj dostęp do swojego konta – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Nieautoryzowana aktywność wykryta – działaj teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nieodebraną przesyłkę – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Zostałeś wytypowany do udziału w ekskluzywnej promocji!"
+    },
+    {
+        "label": "spam",
+        "text": "Nieautoryzowana aktywność wykryta – działaj teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Wprowadź swoje dane i wygraj nagrodę główną!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymasz prezent za udział w ankiecie!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nowe powiadomienie z banku – sprawdź teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymujesz to zaproszenie, ponieważ zostałeś wybrany!"
+    },
+    {
+        "label": "spam",
+        "text": "Zostałeś wytypowany do udziału w ekskluzywnej promocji!"
+    },
+    {
+        "label": "spam",
+        "text": "Zarejestruj się teraz i otrzymaj bonus 100 zł!"
+    },
+    {
+        "label": "spam",
+        "text": "Ekskluzywna oferta tylko dla naszych subskrybentów!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap tej okazji – ostatnia szansa!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymujesz to zaproszenie, ponieważ zostałeś wybrany!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap – specjalna nagroda czeka na Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Odzyskaj dostęp do swojego konta – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Zarejestruj się teraz i otrzymaj bonus 100 zł!"
+    },
+    {
+        "label": "spam",
+        "text": "Zarejestruj się teraz i otrzymaj bonus 100 zł!"
+    },
+    {
+        "label": "spam",
+        "text": "Ekskluzywna oferta tylko dla naszych subskrybentów!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto wymaga natychmiastowej weryfikacji!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainwestuj 100 zł i zarób 10 000 zł w tydzień!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nieodebraną przesyłkę – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Zarejestruj się teraz i otrzymaj bonus 100 zł!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto wymaga natychmiastowej weryfikacji!"
+    },
+    {
+        "label": "spam",
+        "text": "Tylko dzisiaj – wyjątkowa oferta dla Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Potwierdź swoje dane, aby uniknąć blokady konta!"
+    },
+    {
+        "label": "spam",
+        "text": "Zarejestruj się teraz i otrzymaj bonus 100 zł!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymujesz to zaproszenie, ponieważ zostałeś wybrany!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoja paczka czeka na odbiór – potwierdź dane!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainstaluj tę aplikację i zacznij zarabiać!"
+    },
+    {
+        "label": "spam",
+        "text": "Pilna wiadomość – Twój rachunek został zablokowany!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymujesz to zaproszenie, ponieważ zostałeś wybrany!"
+    },
+    {
+        "label": "spam",
+        "text": "Ekskluzywna oferta tylko dla naszych subskrybentów!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap – specjalna nagroda czeka na Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Zdobądź darmową kartę podarunkową już teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nowe powiadomienie z banku – sprawdź teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Potwierdź swoje dane, aby uniknąć blokady konta!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap tej okazji – ostatnia szansa!"
+    },
+    {
+        "label": "spam",
+        "text": "Zarejestruj się teraz i otrzymaj bonus 100 zł!"
+    },
+    {
+        "label": "spam",
+        "text": "Potwierdź swoje dane, aby uniknąć blokady konta!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nowe powiadomienie z banku – sprawdź teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Tylko dzisiaj – wyjątkowa oferta dla Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto wymaga natychmiastowej weryfikacji!"
+    },
+    {
+        "label": "spam",
+        "text": "Odzyskaj dostęp do swojego konta – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Nieautoryzowana aktywność wykryta – działaj teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Nieautoryzowana aktywność wykryta – działaj teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Kliknij tutaj, aby potwierdzić wygraną!"
+    },
+    {
+        "label": "spam",
+        "text": "Potwierdź swoje dane, aby uniknąć blokady konta!"
+    },
+    {
+        "label": "spam",
+        "text": "Odzyskaj dostęp do swojego konta – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nieodebraną przesyłkę – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainwestuj 100 zł i zarób 10 000 zł w tydzień!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoja paczka czeka na odbiór – potwierdź dane!"
+    },
+    {
+        "label": "spam",
+        "text": "Zarejestruj się teraz i otrzymaj bonus 100 zł!"
+    },
+    {
+        "label": "spam",
+        "text": "Wprowadź swoje dane i wygraj nagrodę główną!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap – specjalna nagroda czeka na Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto e-mail zostało wytypowane do nagrody!"
+    },
+    {
+        "label": "spam",
+        "text": "Twój numer został wybrany – sprawdź szczegóły!"
+    },
+    {
+        "label": "spam",
+        "text": "Kliknij tutaj, aby potwierdzić wygraną!"
+    },
+    {
+        "label": "spam",
+        "text": "Zostałeś wytypowany do udziału w ekskluzywnej promocji!"
+    },
+    {
+        "label": "spam",
+        "text": "Zdobądź darmową kartę podarunkową już teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto wymaga natychmiastowej weryfikacji!"
+    },
+    {
+        "label": "spam",
+        "text": "Wprowadź swoje dane i wygraj nagrodę główną!"
+    },
+    {
+        "label": "spam",
+        "text": "Zarejestruj się teraz i otrzymaj bonus 100 zł!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainstaluj tę aplikację i zacznij zarabiać!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoja paczka czeka na odbiór – potwierdź dane!"
+    },
+    {
+        "label": "spam",
+        "text": "Potwierdź swoje dane, aby uniknąć blokady konta!"
+    },
+    {
+        "label": "spam",
+        "text": "Ekskluzywna oferta tylko dla naszych subskrybentów!"
+    },
+    {
+        "label": "spam",
+        "text": "Tylko dzisiaj – wyjątkowa oferta dla Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Wprowadź swoje dane i wygraj nagrodę główną!"
+    },
+    {
+        "label": "spam",
+        "text": "Zostałeś wytypowany do udziału w ekskluzywnej promocji!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nieodebraną przesyłkę – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Gratulacje! Zostałeś wybrany jako zwycięzca!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto e-mail zostało wytypowane do nagrody!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap – specjalna nagroda czeka na Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Kliknij tutaj, aby potwierdzić wygraną!"
+    },
+    {
+        "label": "spam",
+        "text": "Nieautoryzowana aktywność wykryta – działaj teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymasz prezent za udział w ankiecie!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto e-mail zostało wytypowane do nagrody!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap – specjalna nagroda czeka na Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Zdobądź darmową kartę podarunkową już teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Wprowadź swoje dane i wygraj nagrodę główną!"
+    },
+    {
+        "label": "spam",
+        "text": "Zarejestruj się teraz i otrzymaj bonus 100 zł!"
+    },
+    {
+        "label": "spam",
+        "text": "Zostałeś wytypowany do udziału w ekskluzywnej promocji!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nieodebraną przesyłkę – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap – specjalna nagroda czeka na Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap tej okazji – ostatnia szansa!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto e-mail zostało wytypowane do nagrody!"
+    },
+    {
+        "label": "spam",
+        "text": "Wygrałeś iPhone'a – kliknij, aby odebrać!"
+    },
+    {
+        "label": "spam",
+        "text": "Potwierdź swoje dane, aby uniknąć blokady konta!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nieodebraną przesyłkę – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Twój numer został wybrany – sprawdź szczegóły!"
+    },
+    {
+        "label": "spam",
+        "text": "Zostałeś wytypowany do udziału w ekskluzywnej promocji!"
+    },
+    {
+        "label": "spam",
+        "text": "Ekskluzywna oferta tylko dla naszych subskrybentów!"
+    },
+    {
+        "label": "spam",
+        "text": "Zarejestruj się teraz i otrzymaj bonus 100 zł!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoja paczka czeka na odbiór – potwierdź dane!"
+    },
+    {
+        "label": "spam",
+        "text": "Pilna wiadomość – Twój rachunek został zablokowany!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoja paczka czeka na odbiór – potwierdź dane!"
+    },
+    {
+        "label": "spam",
+        "text": "Zdobądź darmową kartę podarunkową już teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Zostałeś wytypowany do udziału w ekskluzywnej promocji!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto wymaga natychmiastowej weryfikacji!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto wymaga natychmiastowej weryfikacji!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap – specjalna nagroda czeka na Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymujesz to zaproszenie, ponieważ zostałeś wybrany!"
+    },
+    {
+        "label": "spam",
+        "text": "Wygrałeś iPhone'a – kliknij, aby odebrać!"
+    },
+    {
+        "label": "spam",
+        "text": "Ekskluzywna oferta tylko dla naszych subskrybentów!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto e-mail zostało wytypowane do nagrody!"
+    },
+    {
+        "label": "spam",
+        "text": "Ekskluzywna oferta tylko dla naszych subskrybentów!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto e-mail zostało wytypowane do nagrody!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap tej okazji – ostatnia szansa!"
+    },
+    {
+        "label": "spam",
+        "text": "Tylko dzisiaj – wyjątkowa oferta dla Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Pilna wiadomość – Twój rachunek został zablokowany!"
+    },
+    {
+        "label": "spam",
+        "text": "Kliknij tutaj, aby potwierdzić wygraną!"
+    },
+    {
+        "label": "spam",
+        "text": "Wprowadź swoje dane i wygraj nagrodę główną!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainstaluj tę aplikację i zacznij zarabiać!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto e-mail zostało wytypowane do nagrody!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainstaluj tę aplikację i zacznij zarabiać!"
+    },
+    {
+        "label": "spam",
+        "text": "Kliknij tutaj, aby potwierdzić wygraną!"
+    },
+    {
+        "label": "spam",
+        "text": "Tylko dzisiaj – wyjątkowa oferta dla Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto wymaga natychmiastowej weryfikacji!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainstaluj tę aplikację i zacznij zarabiać!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto e-mail zostało wytypowane do nagrody!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto wymaga natychmiastowej weryfikacji!"
+    },
+    {
+        "label": "spam",
+        "text": "Odzyskaj dostęp do swojego konta – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Ekskluzywna oferta tylko dla naszych subskrybentów!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nieodebraną przesyłkę – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Kliknij tutaj, aby potwierdzić wygraną!"
+    },
+    {
+        "label": "spam",
+        "text": "Tylko dzisiaj – wyjątkowa oferta dla Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap – specjalna nagroda czeka na Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Odzyskaj dostęp do swojego konta – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Ekskluzywna oferta tylko dla naszych subskrybentów!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap – specjalna nagroda czeka na Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap – specjalna nagroda czeka na Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nowe powiadomienie z banku – sprawdź teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymujesz to zaproszenie, ponieważ zostałeś wybrany!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nieodebraną przesyłkę – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Zostałeś wytypowany do udziału w ekskluzywnej promocji!"
+    },
+    {
+        "label": "spam",
+        "text": "Twój numer został wybrany – sprawdź szczegóły!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto e-mail zostało wytypowane do nagrody!"
+    },
+    {
+        "label": "spam",
+        "text": "Odzyskaj dostęp do swojego konta – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymujesz to zaproszenie, ponieważ zostałeś wybrany!"
+    },
+    {
+        "label": "spam",
+        "text": "Ekskluzywna oferta tylko dla naszych subskrybentów!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainstaluj tę aplikację i zacznij zarabiać!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto wymaga natychmiastowej weryfikacji!"
+    },
+    {
+        "label": "spam",
+        "text": "Zostałeś wytypowany do udziału w ekskluzywnej promocji!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymujesz to zaproszenie, ponieważ zostałeś wybrany!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymasz prezent za udział w ankiecie!"
+    },
+    {
+        "label": "spam",
+        "text": "Odzyskaj dostęp do swojego konta – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto e-mail zostało wytypowane do nagrody!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap tej okazji – ostatnia szansa!"
+    },
+    {
+        "label": "spam",
+        "text": "Twój numer został wybrany – sprawdź szczegóły!"
+    },
+    {
+        "label": "spam",
+        "text": "Pilna wiadomość – Twój rachunek został zablokowany!"
+    },
+    {
+        "label": "spam",
+        "text": "Zostałeś wytypowany do udziału w ekskluzywnej promocji!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymujesz to zaproszenie, ponieważ zostałeś wybrany!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap – specjalna nagroda czeka na Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Wygrałeś iPhone'a – kliknij, aby odebrać!"
+    },
+    {
+        "label": "spam",
+        "text": "Odzyskaj dostęp do swojego konta – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Wygrałeś iPhone'a – kliknij, aby odebrać!"
+    },
+    {
+        "label": "spam",
+        "text": "Tylko dzisiaj – wyjątkowa oferta dla Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nieodebraną przesyłkę – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Twój numer został wybrany – sprawdź szczegóły!"
+    },
+    {
+        "label": "spam",
+        "text": "Zarejestruj się teraz i otrzymaj bonus 100 zł!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto e-mail zostało wytypowane do nagrody!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto e-mail zostało wytypowane do nagrody!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainwestuj 100 zł i zarób 10 000 zł w tydzień!"
+    },
+    {
+        "label": "spam",
+        "text": "Nieautoryzowana aktywność wykryta – działaj teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Wygrałeś iPhone'a – kliknij, aby odebrać!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoja paczka czeka na odbiór – potwierdź dane!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymujesz to zaproszenie, ponieważ zostałeś wybrany!"
+    },
+    {
+        "label": "spam",
+        "text": "Potwierdź swoje dane, aby uniknąć blokady konta!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nowe powiadomienie z banku – sprawdź teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto wymaga natychmiastowej weryfikacji!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoja paczka czeka na odbiór – potwierdź dane!"
+    },
+    {
+        "label": "spam",
+        "text": "Gratulacje! Zostałeś wybrany jako zwycięzca!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap – specjalna nagroda czeka na Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoja paczka czeka na odbiór – potwierdź dane!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nowe powiadomienie z banku – sprawdź teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Ekskluzywna oferta tylko dla naszych subskrybentów!"
+    },
+    {
+        "label": "spam",
+        "text": "Potwierdź swoje dane, aby uniknąć blokady konta!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nowe powiadomienie z banku – sprawdź teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymujesz to zaproszenie, ponieważ zostałeś wybrany!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap – specjalna nagroda czeka na Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Potwierdź swoje dane, aby uniknąć blokady konta!"
+    },
+    {
+        "label": "spam",
+        "text": "Pilna wiadomość – Twój rachunek został zablokowany!"
+    },
+    {
+        "label": "spam",
+        "text": "Pilna wiadomość – Twój rachunek został zablokowany!"
+    },
+    {
+        "label": "spam",
+        "text": "Odzyskaj dostęp do swojego konta – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainwestuj 100 zł i zarób 10 000 zł w tydzień!"
+    },
+    {
+        "label": "spam",
+        "text": "Twój numer został wybrany – sprawdź szczegóły!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nieodebraną przesyłkę – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Potwierdź swoje dane, aby uniknąć blokady konta!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymasz prezent za udział w ankiecie!"
+    },
+    {
+        "label": "spam",
+        "text": "Ekskluzywna oferta tylko dla naszych subskrybentów!"
+    },
+    {
+        "label": "spam",
+        "text": "Twój numer został wybrany – sprawdź szczegóły!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoja paczka czeka na odbiór – potwierdź dane!"
+    },
+    {
+        "label": "spam",
+        "text": "Pilna wiadomość – Twój rachunek został zablokowany!"
+    },
+    {
+        "label": "spam",
+        "text": "Twój numer został wybrany – sprawdź szczegóły!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymujesz to zaproszenie, ponieważ zostałeś wybrany!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nieodebraną przesyłkę – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymujesz to zaproszenie, ponieważ zostałeś wybrany!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoja paczka czeka na odbiór – potwierdź dane!"
+    },
+    {
+        "label": "spam",
+        "text": "Gratulacje! Zostałeś wybrany jako zwycięzca!"
+    },
+    {
+        "label": "spam",
+        "text": "Wprowadź swoje dane i wygraj nagrodę główną!"
+    },
+    {
+        "label": "spam",
+        "text": "Potwierdź swoje dane, aby uniknąć blokady konta!"
+    },
+    {
+        "label": "spam",
+        "text": "Gratulacje! Zostałeś wybrany jako zwycięzca!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymujesz to zaproszenie, ponieważ zostałeś wybrany!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoja paczka czeka na odbiór – potwierdź dane!"
+    },
+    {
+        "label": "spam",
+        "text": "Twój numer został wybrany – sprawdź szczegóły!"
+    },
+    {
+        "label": "spam",
+        "text": "Wygrałeś iPhone'a – kliknij, aby odebrać!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymasz prezent za udział w ankiecie!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto e-mail zostało wytypowane do nagrody!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainwestuj 100 zł i zarób 10 000 zł w tydzień!"
+    },
+    {
+        "label": "spam",
+        "text": "Potwierdź swoje dane, aby uniknąć blokady konta!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nieodebraną przesyłkę – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainwestuj 100 zł i zarób 10 000 zł w tydzień!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap tej okazji – ostatnia szansa!"
+    },
+    {
+        "label": "spam",
+        "text": "Zdobądź darmową kartę podarunkową już teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoja paczka czeka na odbiór – potwierdź dane!"
+    },
+    {
+        "label": "spam",
+        "text": "Odzyskaj dostęp do swojego konta – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Twój numer został wybrany – sprawdź szczegóły!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nieodebraną przesyłkę – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoja paczka czeka na odbiór – potwierdź dane!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainstaluj tę aplikację i zacznij zarabiać!"
+    },
+    {
+        "label": "spam",
+        "text": "Wprowadź swoje dane i wygraj nagrodę główną!"
+    },
+    {
+        "label": "spam",
+        "text": "Zostałeś wytypowany do udziału w ekskluzywnej promocji!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymujesz to zaproszenie, ponieważ zostałeś wybrany!"
+    },
+    {
+        "label": "spam",
+        "text": "Zdobądź darmową kartę podarunkową już teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainstaluj tę aplikację i zacznij zarabiać!"
+    },
+    {
+        "label": "spam",
+        "text": "Zarejestruj się teraz i otrzymaj bonus 100 zł!"
+    },
+    {
+        "label": "spam",
+        "text": "Potwierdź swoje dane, aby uniknąć blokady konta!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap – specjalna nagroda czeka na Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Pilna wiadomość – Twój rachunek został zablokowany!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap – specjalna nagroda czeka na Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap tej okazji – ostatnia szansa!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap – specjalna nagroda czeka na Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap tej okazji – ostatnia szansa!"
+    },
+    {
+        "label": "spam",
+        "text": "Potwierdź swoje dane, aby uniknąć blokady konta!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap – specjalna nagroda czeka na Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymujesz to zaproszenie, ponieważ zostałeś wybrany!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoja paczka czeka na odbiór – potwierdź dane!"
+    },
+    {
+        "label": "spam",
+        "text": "Wygrałeś iPhone'a – kliknij, aby odebrać!"
+    },
+    {
+        "label": "spam",
+        "text": "Twój numer został wybrany – sprawdź szczegóły!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nieodebraną przesyłkę – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Nieautoryzowana aktywność wykryta – działaj teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymujesz to zaproszenie, ponieważ zostałeś wybrany!"
+    },
+    {
+        "label": "spam",
+        "text": "Tylko dzisiaj – wyjątkowa oferta dla Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymujesz to zaproszenie, ponieważ zostałeś wybrany!"
+    },
+    {
+        "label": "spam",
+        "text": "Zarejestruj się teraz i otrzymaj bonus 100 zł!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto e-mail zostało wytypowane do nagrody!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap tej okazji – ostatnia szansa!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap tej okazji – ostatnia szansa!"
+    },
+    {
+        "label": "spam",
+        "text": "Tylko dzisiaj – wyjątkowa oferta dla Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Gratulacje! Zostałeś wybrany jako zwycięzca!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap – specjalna nagroda czeka na Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoja paczka czeka na odbiór – potwierdź dane!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap – specjalna nagroda czeka na Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoja paczka czeka na odbiór – potwierdź dane!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoja paczka czeka na odbiór – potwierdź dane!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymujesz to zaproszenie, ponieważ zostałeś wybrany!"
+    },
+    {
+        "label": "spam",
+        "text": "Nieautoryzowana aktywność wykryta – działaj teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainwestuj 100 zł i zarób 10 000 zł w tydzień!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymujesz to zaproszenie, ponieważ zostałeś wybrany!"
+    },
+    {
+        "label": "spam",
+        "text": "Potwierdź swoje dane, aby uniknąć blokady konta!"
+    },
+    {
+        "label": "spam",
+        "text": "Potwierdź swoje dane, aby uniknąć blokady konta!"
+    },
+    {
+        "label": "spam",
+        "text": "Zarejestruj się teraz i otrzymaj bonus 100 zł!"
+    },
+    {
+        "label": "spam",
+        "text": "Odzyskaj dostęp do swojego konta – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nowe powiadomienie z banku – sprawdź teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Gratulacje! Zostałeś wybrany jako zwycięzca!"
+    },
+    {
+        "label": "spam",
+        "text": "Pilna wiadomość – Twój rachunek został zablokowany!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nowe powiadomienie z banku – sprawdź teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymasz prezent za udział w ankiecie!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto wymaga natychmiastowej weryfikacji!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap – specjalna nagroda czeka na Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Wprowadź swoje dane i wygraj nagrodę główną!"
+    },
+    {
+        "label": "spam",
+        "text": "Zarejestruj się teraz i otrzymaj bonus 100 zł!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto wymaga natychmiastowej weryfikacji!"
+    },
+    {
+        "label": "spam",
+        "text": "Tylko dzisiaj – wyjątkowa oferta dla Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoja paczka czeka na odbiór – potwierdź dane!"
+    },
+    {
+        "label": "spam",
+        "text": "Tylko dzisiaj – wyjątkowa oferta dla Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Zdobądź darmową kartę podarunkową już teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nowe powiadomienie z banku – sprawdź teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Wygrałeś iPhone'a – kliknij, aby odebrać!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainstaluj tę aplikację i zacznij zarabiać!"
+    },
+    {
+        "label": "spam",
+        "text": "Twój numer został wybrany – sprawdź szczegóły!"
+    },
+    {
+        "label": "spam",
+        "text": "Nieautoryzowana aktywność wykryta – działaj teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Twój numer został wybrany – sprawdź szczegóły!"
+    },
+    {
+        "label": "spam",
+        "text": "Zdobądź darmową kartę podarunkową już teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainwestuj 100 zł i zarób 10 000 zł w tydzień!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto e-mail zostało wytypowane do nagrody!"
+    },
+    {
+        "label": "spam",
+        "text": "Tylko dzisiaj – wyjątkowa oferta dla Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto wymaga natychmiastowej weryfikacji!"
+    },
+    {
+        "label": "spam",
+        "text": "Zarejestruj się teraz i otrzymaj bonus 100 zł!"
+    },
+    {
+        "label": "spam",
+        "text": "Pilna wiadomość – Twój rachunek został zablokowany!"
+    },
+    {
+        "label": "spam",
+        "text": "Pilna wiadomość – Twój rachunek został zablokowany!"
+    },
+    {
+        "label": "spam",
+        "text": "Twój numer został wybrany – sprawdź szczegóły!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nowe powiadomienie z banku – sprawdź teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Zarejestruj się teraz i otrzymaj bonus 100 zł!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto wymaga natychmiastowej weryfikacji!"
+    },
+    {
+        "label": "spam",
+        "text": "Potwierdź swoje dane, aby uniknąć blokady konta!"
+    },
+    {
+        "label": "spam",
+        "text": "Kliknij tutaj, aby potwierdzić wygraną!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap – specjalna nagroda czeka na Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Zarejestruj się teraz i otrzymaj bonus 100 zł!"
+    },
+    {
+        "label": "spam",
+        "text": "Twój numer został wybrany – sprawdź szczegóły!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nowe powiadomienie z banku – sprawdź teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymasz prezent za udział w ankiecie!"
+    },
+    {
+        "label": "spam",
+        "text": "Kliknij tutaj, aby potwierdzić wygraną!"
+    },
+    {
+        "label": "spam",
+        "text": "Potwierdź swoje dane, aby uniknąć blokady konta!"
+    },
+    {
+        "label": "spam",
+        "text": "Wygrałeś iPhone'a – kliknij, aby odebrać!"
+    },
+    {
+        "label": "spam",
+        "text": "Twój numer został wybrany – sprawdź szczegóły!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainstaluj tę aplikację i zacznij zarabiać!"
+    },
+    {
+        "label": "spam",
+        "text": "Gratulacje! Zostałeś wybrany jako zwycięzca!"
+    },
+    {
+        "label": "spam",
+        "text": "Zdobądź darmową kartę podarunkową już teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainwestuj 100 zł i zarób 10 000 zł w tydzień!"
+    },
+    {
+        "label": "spam",
+        "text": "Wprowadź swoje dane i wygraj nagrodę główną!"
+    },
+    {
+        "label": "spam",
+        "text": "Gratulacje! Zostałeś wybrany jako zwycięzca!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap – specjalna nagroda czeka na Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Odzyskaj dostęp do swojego konta – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Odzyskaj dostęp do swojego konta – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nowe powiadomienie z banku – sprawdź teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoja paczka czeka na odbiór – potwierdź dane!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainwestuj 100 zł i zarób 10 000 zł w tydzień!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap – specjalna nagroda czeka na Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainwestuj 100 zł i zarób 10 000 zł w tydzień!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto e-mail zostało wytypowane do nagrody!"
+    },
+    {
+        "label": "spam",
+        "text": "Potwierdź swoje dane, aby uniknąć blokady konta!"
+    },
+    {
+        "label": "spam",
+        "text": "Potwierdź swoje dane, aby uniknąć blokady konta!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto wymaga natychmiastowej weryfikacji!"
+    },
+    {
+        "label": "spam",
+        "text": "Zostałeś wytypowany do udziału w ekskluzywnej promocji!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nowe powiadomienie z banku – sprawdź teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto e-mail zostało wytypowane do nagrody!"
+    },
+    {
+        "label": "spam",
+        "text": "Potwierdź swoje dane, aby uniknąć blokady konta!"
+    },
+    {
+        "label": "spam",
+        "text": "Kliknij tutaj, aby potwierdzić wygraną!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap – specjalna nagroda czeka na Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Kliknij tutaj, aby potwierdzić wygraną!"
+    },
+    {
+        "label": "spam",
+        "text": "Gratulacje! Zostałeś wybrany jako zwycięzca!"
+    },
+    {
+        "label": "spam",
+        "text": "Twój numer został wybrany – sprawdź szczegóły!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainstaluj tę aplikację i zacznij zarabiać!"
+    },
+    {
+        "label": "spam",
+        "text": "Tylko dzisiaj – wyjątkowa oferta dla Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap – specjalna nagroda czeka na Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nieodebraną przesyłkę – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nowe powiadomienie z banku – sprawdź teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Kliknij tutaj, aby potwierdzić wygraną!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymasz prezent za udział w ankiecie!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap – specjalna nagroda czeka na Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Potwierdź swoje dane, aby uniknąć blokady konta!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nieodebraną przesyłkę – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Zdobądź darmową kartę podarunkową już teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap – specjalna nagroda czeka na Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Zarejestruj się teraz i otrzymaj bonus 100 zł!"
+    },
+    {
+        "label": "spam",
+        "text": "Odzyskaj dostęp do swojego konta – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap tej okazji – ostatnia szansa!"
+    },
+    {
+        "label": "spam",
+        "text": "Twój numer został wybrany – sprawdź szczegóły!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainwestuj 100 zł i zarób 10 000 zł w tydzień!"
+    },
+    {
+        "label": "spam",
+        "text": "Pilna wiadomość – Twój rachunek został zablokowany!"
+    },
+    {
+        "label": "spam",
+        "text": "Ekskluzywna oferta tylko dla naszych subskrybentów!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nieodebraną przesyłkę – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymasz prezent za udział w ankiecie!"
+    },
+    {
+        "label": "spam",
+        "text": "Tylko dzisiaj – wyjątkowa oferta dla Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Zostałeś wytypowany do udziału w ekskluzywnej promocji!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap tej okazji – ostatnia szansa!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto e-mail zostało wytypowane do nagrody!"
+    },
+    {
+        "label": "spam",
+        "text": "Zdobądź darmową kartę podarunkową już teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nieodebraną przesyłkę – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Zdobądź darmową kartę podarunkową już teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoja paczka czeka na odbiór – potwierdź dane!"
+    },
+    {
+        "label": "spam",
+        "text": "Ekskluzywna oferta tylko dla naszych subskrybentów!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoja paczka czeka na odbiór – potwierdź dane!"
+    },
+    {
+        "label": "spam",
+        "text": "Twój numer został wybrany – sprawdź szczegóły!"
+    },
+    {
+        "label": "spam",
+        "text": "Wprowadź swoje dane i wygraj nagrodę główną!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto e-mail zostało wytypowane do nagrody!"
+    },
+    {
+        "label": "spam",
+        "text": "Kliknij tutaj, aby potwierdzić wygraną!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto wymaga natychmiastowej weryfikacji!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto wymaga natychmiastowej weryfikacji!"
+    },
+    {
+        "label": "spam",
+        "text": "Gratulacje! Zostałeś wybrany jako zwycięzca!"
+    },
+    {
+        "label": "spam",
+        "text": "Gratulacje! Zostałeś wybrany jako zwycięzca!"
+    },
+    {
+        "label": "spam",
+        "text": "Kliknij tutaj, aby potwierdzić wygraną!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap tej okazji – ostatnia szansa!"
+    },
+    {
+        "label": "spam",
+        "text": "Ekskluzywna oferta tylko dla naszych subskrybentów!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap – specjalna nagroda czeka na Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymujesz to zaproszenie, ponieważ zostałeś wybrany!"
+    },
+    {
+        "label": "spam",
+        "text": "Kliknij tutaj, aby potwierdzić wygraną!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainwestuj 100 zł i zarób 10 000 zł w tydzień!"
+    },
+    {
+        "label": "spam",
+        "text": "Pilna wiadomość – Twój rachunek został zablokowany!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto e-mail zostało wytypowane do nagrody!"
+    },
+    {
+        "label": "spam",
+        "text": "Zdobądź darmową kartę podarunkową już teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nieodebraną przesyłkę – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Odzyskaj dostęp do swojego konta – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainwestuj 100 zł i zarób 10 000 zł w tydzień!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymasz prezent za udział w ankiecie!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nowe powiadomienie z banku – sprawdź teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoja paczka czeka na odbiór – potwierdź dane!"
+    },
+    {
+        "label": "spam",
+        "text": "Pilna wiadomość – Twój rachunek został zablokowany!"
+    },
+    {
+        "label": "spam",
+        "text": "Zdobądź darmową kartę podarunkową już teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap tej okazji – ostatnia szansa!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymasz prezent za udział w ankiecie!"
+    },
+    {
+        "label": "spam",
+        "text": "Potwierdź swoje dane, aby uniknąć blokady konta!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nowe powiadomienie z banku – sprawdź teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymasz prezent za udział w ankiecie!"
+    },
+    {
+        "label": "spam",
+        "text": "Kliknij tutaj, aby potwierdzić wygraną!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap – specjalna nagroda czeka na Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nieodebraną przesyłkę – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Tylko dzisiaj – wyjątkowa oferta dla Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Twój numer został wybrany – sprawdź szczegóły!"
+    },
+    {
+        "label": "spam",
+        "text": "Potwierdź swoje dane, aby uniknąć blokady konta!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainstaluj tę aplikację i zacznij zarabiać!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nieodebraną przesyłkę – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nowe powiadomienie z banku – sprawdź teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap tej okazji – ostatnia szansa!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto e-mail zostało wytypowane do nagrody!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymasz prezent za udział w ankiecie!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nieodebraną przesyłkę – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Odzyskaj dostęp do swojego konta – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Wygrałeś iPhone'a – kliknij, aby odebrać!"
+    },
+    {
+        "label": "spam",
+        "text": "Odzyskaj dostęp do swojego konta – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nowe powiadomienie z banku – sprawdź teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nowe powiadomienie z banku – sprawdź teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Nieautoryzowana aktywność wykryta – działaj teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Zostałeś wytypowany do udziału w ekskluzywnej promocji!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymasz prezent za udział w ankiecie!"
+    },
+    {
+        "label": "spam",
+        "text": "Zostałeś wytypowany do udziału w ekskluzywnej promocji!"
+    },
+    {
+        "label": "spam",
+        "text": "Zarejestruj się teraz i otrzymaj bonus 100 zł!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoja paczka czeka na odbiór – potwierdź dane!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoja paczka czeka na odbiór – potwierdź dane!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto e-mail zostało wytypowane do nagrody!"
+    },
+    {
+        "label": "spam",
+        "text": "Tylko dzisiaj – wyjątkowa oferta dla Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Wygrałeś iPhone'a – kliknij, aby odebrać!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nowe powiadomienie z banku – sprawdź teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Zarejestruj się teraz i otrzymaj bonus 100 zł!"
+    },
+    {
+        "label": "spam",
+        "text": "Nieautoryzowana aktywność wykryta – działaj teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Potwierdź swoje dane, aby uniknąć blokady konta!"
+    },
+    {
+        "label": "spam",
+        "text": "Wygrałeś iPhone'a – kliknij, aby odebrać!"
+    },
+    {
+        "label": "spam",
+        "text": "Gratulacje! Zostałeś wybrany jako zwycięzca!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nowe powiadomienie z banku – sprawdź teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap – specjalna nagroda czeka na Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Nieautoryzowana aktywność wykryta – działaj teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Potwierdź swoje dane, aby uniknąć blokady konta!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymujesz to zaproszenie, ponieważ zostałeś wybrany!"
+    },
+    {
+        "label": "spam",
+        "text": "Zdobądź darmową kartę podarunkową już teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Twój numer został wybrany – sprawdź szczegóły!"
+    },
+    {
+        "label": "spam",
+        "text": "Odzyskaj dostęp do swojego konta – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Nieautoryzowana aktywność wykryta – działaj teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap – specjalna nagroda czeka na Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Twój numer został wybrany – sprawdź szczegóły!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainwestuj 100 zł i zarób 10 000 zł w tydzień!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoja paczka czeka na odbiór – potwierdź dane!"
+    },
+    {
+        "label": "spam",
+        "text": "Zdobądź darmową kartę podarunkową już teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Zarejestruj się teraz i otrzymaj bonus 100 zł!"
+    },
+    {
+        "label": "spam",
+        "text": "Twój numer został wybrany – sprawdź szczegóły!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nieodebraną przesyłkę – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap tej okazji – ostatnia szansa!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap tej okazji – ostatnia szansa!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap – specjalna nagroda czeka na Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Odzyskaj dostęp do swojego konta – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Ekskluzywna oferta tylko dla naszych subskrybentów!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto e-mail zostało wytypowane do nagrody!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nieodebraną przesyłkę – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nieodebraną przesyłkę – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nieodebraną przesyłkę – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Pilna wiadomość – Twój rachunek został zablokowany!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainstaluj tę aplikację i zacznij zarabiać!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto wymaga natychmiastowej weryfikacji!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoja paczka czeka na odbiór – potwierdź dane!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainwestuj 100 zł i zarób 10 000 zł w tydzień!"
+    },
+    {
+        "label": "spam",
+        "text": "Wprowadź swoje dane i wygraj nagrodę główną!"
+    },
+    {
+        "label": "spam",
+        "text": "Pilna wiadomość – Twój rachunek został zablokowany!"
+    },
+    {
+        "label": "spam",
+        "text": "Wygrałeś iPhone'a – kliknij, aby odebrać!"
+    },
+    {
+        "label": "spam",
+        "text": "Zostałeś wytypowany do udziału w ekskluzywnej promocji!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap tej okazji – ostatnia szansa!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap tej okazji – ostatnia szansa!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nieodebraną przesyłkę – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainwestuj 100 zł i zarób 10 000 zł w tydzień!"
+    },
+    {
+        "label": "spam",
+        "text": "Zarejestruj się teraz i otrzymaj bonus 100 zł!"
+    },
+    {
+        "label": "spam",
+        "text": "Zarejestruj się teraz i otrzymaj bonus 100 zł!"
+    },
+    {
+        "label": "spam",
+        "text": "Twój numer został wybrany – sprawdź szczegóły!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainstaluj tę aplikację i zacznij zarabiać!"
+    },
+    {
+        "label": "spam",
+        "text": "Tylko dzisiaj – wyjątkowa oferta dla Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Gratulacje! Zostałeś wybrany jako zwycięzca!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto wymaga natychmiastowej weryfikacji!"
+    },
+    {
+        "label": "spam",
+        "text": "Wprowadź swoje dane i wygraj nagrodę główną!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymujesz to zaproszenie, ponieważ zostałeś wybrany!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainwestuj 100 zł i zarób 10 000 zł w tydzień!"
+    },
+    {
+        "label": "spam",
+        "text": "Wprowadź swoje dane i wygraj nagrodę główną!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap tej okazji – ostatnia szansa!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymujesz to zaproszenie, ponieważ zostałeś wybrany!"
+    },
+    {
+        "label": "spam",
+        "text": "Ekskluzywna oferta tylko dla naszych subskrybentów!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nieodebraną przesyłkę – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymujesz to zaproszenie, ponieważ zostałeś wybrany!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nowe powiadomienie z banku – sprawdź teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Twój numer został wybrany – sprawdź szczegóły!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymasz prezent za udział w ankiecie!"
+    },
+    {
+        "label": "spam",
+        "text": "Wprowadź swoje dane i wygraj nagrodę główną!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap tej okazji – ostatnia szansa!"
+    },
+    {
+        "label": "spam",
+        "text": "Odzyskaj dostęp do swojego konta – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymasz prezent za udział w ankiecie!"
+    },
+    {
+        "label": "spam",
+        "text": "Pilna wiadomość – Twój rachunek został zablokowany!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymasz prezent za udział w ankiecie!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap – specjalna nagroda czeka na Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Odzyskaj dostęp do swojego konta – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoja paczka czeka na odbiór – potwierdź dane!"
+    },
+    {
+        "label": "spam",
+        "text": "Wprowadź swoje dane i wygraj nagrodę główną!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymujesz to zaproszenie, ponieważ zostałeś wybrany!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap tej okazji – ostatnia szansa!"
+    },
+    {
+        "label": "spam",
+        "text": "Potwierdź swoje dane, aby uniknąć blokady konta!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap – specjalna nagroda czeka na Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Pilna wiadomość – Twój rachunek został zablokowany!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto e-mail zostało wytypowane do nagrody!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nieodebraną przesyłkę – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainwestuj 100 zł i zarób 10 000 zł w tydzień!"
+    },
+    {
+        "label": "spam",
+        "text": "Kliknij tutaj, aby potwierdzić wygraną!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainstaluj tę aplikację i zacznij zarabiać!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainwestuj 100 zł i zarób 10 000 zł w tydzień!"
+    },
+    {
+        "label": "spam",
+        "text": "Odzyskaj dostęp do swojego konta – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Zostałeś wytypowany do udziału w ekskluzywnej promocji!"
+    },
+    {
+        "label": "spam",
+        "text": "Wprowadź swoje dane i wygraj nagrodę główną!"
+    },
+    {
+        "label": "spam",
+        "text": "Gratulacje! Zostałeś wybrany jako zwycięzca!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainstaluj tę aplikację i zacznij zarabiać!"
+    },
+    {
+        "label": "spam",
+        "text": "Tylko dzisiaj – wyjątkowa oferta dla Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Wprowadź swoje dane i wygraj nagrodę główną!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoja paczka czeka na odbiór – potwierdź dane!"
+    },
+    {
+        "label": "spam",
+        "text": "Zostałeś wytypowany do udziału w ekskluzywnej promocji!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoja paczka czeka na odbiór – potwierdź dane!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto e-mail zostało wytypowane do nagrody!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoja paczka czeka na odbiór – potwierdź dane!"
+    },
+    {
+        "label": "spam",
+        "text": "Tylko dzisiaj – wyjątkowa oferta dla Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Kliknij tutaj, aby potwierdzić wygraną!"
+    },
+    {
+        "label": "spam",
+        "text": "Wygrałeś iPhone'a – kliknij, aby odebrać!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto wymaga natychmiastowej weryfikacji!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto e-mail zostało wytypowane do nagrody!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymujesz to zaproszenie, ponieważ zostałeś wybrany!"
+    },
+    {
+        "label": "spam",
+        "text": "Gratulacje! Zostałeś wybrany jako zwycięzca!"
+    },
+    {
+        "label": "spam",
+        "text": "Pilna wiadomość – Twój rachunek został zablokowany!"
+    },
+    {
+        "label": "spam",
+        "text": "Zostałeś wytypowany do udziału w ekskluzywnej promocji!"
+    },
+    {
+        "label": "spam",
+        "text": "Wygrałeś iPhone'a – kliknij, aby odebrać!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto e-mail zostało wytypowane do nagrody!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nowe powiadomienie z banku – sprawdź teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Nieautoryzowana aktywność wykryta – działaj teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto e-mail zostało wytypowane do nagrody!"
+    },
+    {
+        "label": "spam",
+        "text": "Zarejestruj się teraz i otrzymaj bonus 100 zł!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto wymaga natychmiastowej weryfikacji!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoja paczka czeka na odbiór – potwierdź dane!"
+    },
+    {
+        "label": "spam",
+        "text": "Potwierdź swoje dane, aby uniknąć blokady konta!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoja paczka czeka na odbiór – potwierdź dane!"
+    },
+    {
+        "label": "spam",
+        "text": "Pilna wiadomość – Twój rachunek został zablokowany!"
+    },
+    {
+        "label": "spam",
+        "text": "Nieautoryzowana aktywność wykryta – działaj teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nowe powiadomienie z banku – sprawdź teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nowe powiadomienie z banku – sprawdź teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Twój numer został wybrany – sprawdź szczegóły!"
+    },
+    {
+        "label": "spam",
+        "text": "Zostałeś wytypowany do udziału w ekskluzywnej promocji!"
+    },
+    {
+        "label": "spam",
+        "text": "Pilna wiadomość – Twój rachunek został zablokowany!"
+    },
+    {
+        "label": "spam",
+        "text": "Zdobądź darmową kartę podarunkową już teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymasz prezent za udział w ankiecie!"
+    },
+    {
+        "label": "spam",
+        "text": "Tylko dzisiaj – wyjątkowa oferta dla Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Ekskluzywna oferta tylko dla naszych subskrybentów!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymasz prezent za udział w ankiecie!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainwestuj 100 zł i zarób 10 000 zł w tydzień!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nowe powiadomienie z banku – sprawdź teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Zostałeś wytypowany do udziału w ekskluzywnej promocji!"
+    },
+    {
+        "label": "spam",
+        "text": "Kliknij tutaj, aby potwierdzić wygraną!"
+    },
+    {
+        "label": "spam",
+        "text": "Wprowadź swoje dane i wygraj nagrodę główną!"
+    },
+    {
+        "label": "spam",
+        "text": "Twój numer został wybrany – sprawdź szczegóły!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymujesz to zaproszenie, ponieważ zostałeś wybrany!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymasz prezent za udział w ankiecie!"
+    },
+    {
+        "label": "spam",
+        "text": "Gratulacje! Zostałeś wybrany jako zwycięzca!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymasz prezent za udział w ankiecie!"
+    },
+    {
+        "label": "spam",
+        "text": "Kliknij tutaj, aby potwierdzić wygraną!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainwestuj 100 zł i zarób 10 000 zł w tydzień!"
+    },
+    {
+        "label": "spam",
+        "text": "Kliknij tutaj, aby potwierdzić wygraną!"
+    },
+    {
+        "label": "spam",
+        "text": "Zostałeś wytypowany do udziału w ekskluzywnej promocji!"
+    },
+    {
+        "label": "spam",
+        "text": "Pilna wiadomość – Twój rachunek został zablokowany!"
+    },
+    {
+        "label": "spam",
+        "text": "Kliknij tutaj, aby potwierdzić wygraną!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nowe powiadomienie z banku – sprawdź teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Zostałeś wytypowany do udziału w ekskluzywnej promocji!"
+    },
+    {
+        "label": "spam",
+        "text": "Twój numer został wybrany – sprawdź szczegóły!"
+    },
+    {
+        "label": "spam",
+        "text": "Gratulacje! Zostałeś wybrany jako zwycięzca!"
+    },
+    {
+        "label": "spam",
+        "text": "Ekskluzywna oferta tylko dla naszych subskrybentów!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymasz prezent za udział w ankiecie!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainwestuj 100 zł i zarób 10 000 zł w tydzień!"
+    },
+    {
+        "label": "spam",
+        "text": "Tylko dzisiaj – wyjątkowa oferta dla Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainwestuj 100 zł i zarób 10 000 zł w tydzień!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap tej okazji – ostatnia szansa!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap tej okazji – ostatnia szansa!"
+    },
+    {
+        "label": "spam",
+        "text": "Ekskluzywna oferta tylko dla naszych subskrybentów!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap tej okazji – ostatnia szansa!"
+    },
+    {
+        "label": "spam",
+        "text": "Odzyskaj dostęp do swojego konta – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Zarejestruj się teraz i otrzymaj bonus 100 zł!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto wymaga natychmiastowej weryfikacji!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoja paczka czeka na odbiór – potwierdź dane!"
+    },
+    {
+        "label": "spam",
+        "text": "Zarejestruj się teraz i otrzymaj bonus 100 zł!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainwestuj 100 zł i zarób 10 000 zł w tydzień!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymujesz to zaproszenie, ponieważ zostałeś wybrany!"
+    },
+    {
+        "label": "spam",
+        "text": "Ekskluzywna oferta tylko dla naszych subskrybentów!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymasz prezent za udział w ankiecie!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto e-mail zostało wytypowane do nagrody!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap – specjalna nagroda czeka na Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Zdobądź darmową kartę podarunkową już teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Gratulacje! Zostałeś wybrany jako zwycięzca!"
+    },
+    {
+        "label": "spam",
+        "text": "Gratulacje! Zostałeś wybrany jako zwycięzca!"
+    },
+    {
+        "label": "spam",
+        "text": "Zostałeś wytypowany do udziału w ekskluzywnej promocji!"
+    },
+    {
+        "label": "spam",
+        "text": "Zostałeś wytypowany do udziału w ekskluzywnej promocji!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nowe powiadomienie z banku – sprawdź teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Gratulacje! Zostałeś wybrany jako zwycięzca!"
+    },
+    {
+        "label": "spam",
+        "text": "Gratulacje! Zostałeś wybrany jako zwycięzca!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nieodebraną przesyłkę – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Potwierdź swoje dane, aby uniknąć blokady konta!"
+    },
+    {
+        "label": "spam",
+        "text": "Pilna wiadomość – Twój rachunek został zablokowany!"
+    },
+    {
+        "label": "spam",
+        "text": "Tylko dzisiaj – wyjątkowa oferta dla Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Zostałeś wytypowany do udziału w ekskluzywnej promocji!"
+    },
+    {
+        "label": "spam",
+        "text": "Gratulacje! Zostałeś wybrany jako zwycięzca!"
+    },
+    {
+        "label": "spam",
+        "text": "Ekskluzywna oferta tylko dla naszych subskrybentów!"
+    },
+    {
+        "label": "spam",
+        "text": "Zostałeś wytypowany do udziału w ekskluzywnej promocji!"
+    },
+    {
+        "label": "spam",
+        "text": "Potwierdź swoje dane, aby uniknąć blokady konta!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap tej okazji – ostatnia szansa!"
+    },
+    {
+        "label": "spam",
+        "text": "Zostałeś wytypowany do udziału w ekskluzywnej promocji!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nowe powiadomienie z banku – sprawdź teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Wygrałeś iPhone'a – kliknij, aby odebrać!"
+    },
+    {
+        "label": "spam",
+        "text": "Twój numer został wybrany – sprawdź szczegóły!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap tej okazji – ostatnia szansa!"
+    },
+    {
+        "label": "spam",
+        "text": "Wygrałeś iPhone'a – kliknij, aby odebrać!"
+    },
+    {
+        "label": "spam",
+        "text": "Nieautoryzowana aktywność wykryta – działaj teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Zdobądź darmową kartę podarunkową już teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Wygrałeś iPhone'a – kliknij, aby odebrać!"
+    },
+    {
+        "label": "spam",
+        "text": "Pilna wiadomość – Twój rachunek został zablokowany!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainwestuj 100 zł i zarób 10 000 zł w tydzień!"
+    },
+    {
+        "label": "spam",
+        "text": "Zdobądź darmową kartę podarunkową już teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymujesz to zaproszenie, ponieważ zostałeś wybrany!"
+    },
+    {
+        "label": "spam",
+        "text": "Ekskluzywna oferta tylko dla naszych subskrybentów!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoja paczka czeka na odbiór – potwierdź dane!"
+    },
+    {
+        "label": "spam",
+        "text": "Wygrałeś iPhone'a – kliknij, aby odebrać!"
+    },
+    {
+        "label": "spam",
+        "text": "Nieautoryzowana aktywność wykryta – działaj teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Tylko dzisiaj – wyjątkowa oferta dla Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Zarejestruj się teraz i otrzymaj bonus 100 zł!"
+    },
+    {
+        "label": "spam",
+        "text": "Zostałeś wytypowany do udziału w ekskluzywnej promocji!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap – specjalna nagroda czeka na Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nieodebraną przesyłkę – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymasz prezent za udział w ankiecie!"
+    },
+    {
+        "label": "spam",
+        "text": "Wprowadź swoje dane i wygraj nagrodę główną!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nieodebraną przesyłkę – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Ekskluzywna oferta tylko dla naszych subskrybentów!"
+    },
+    {
+        "label": "spam",
+        "text": "Tylko dzisiaj – wyjątkowa oferta dla Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto wymaga natychmiastowej weryfikacji!"
+    },
+    {
+        "label": "spam",
+        "text": "Kliknij tutaj, aby potwierdzić wygraną!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymujesz to zaproszenie, ponieważ zostałeś wybrany!"
+    },
+    {
+        "label": "spam",
+        "text": "Ekskluzywna oferta tylko dla naszych subskrybentów!"
+    },
+    {
+        "label": "spam",
+        "text": "Zarejestruj się teraz i otrzymaj bonus 100 zł!"
+    },
+    {
+        "label": "spam",
+        "text": "Odzyskaj dostęp do swojego konta – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainwestuj 100 zł i zarób 10 000 zł w tydzień!"
+    },
+    {
+        "label": "spam",
+        "text": "Tylko dzisiaj – wyjątkowa oferta dla Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto wymaga natychmiastowej weryfikacji!"
+    },
+    {
+        "label": "spam",
+        "text": "Wprowadź swoje dane i wygraj nagrodę główną!"
+    },
+    {
+        "label": "spam",
+        "text": "Kliknij tutaj, aby potwierdzić wygraną!"
+    },
+    {
+        "label": "spam",
+        "text": "Pilna wiadomość – Twój rachunek został zablokowany!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap tej okazji – ostatnia szansa!"
+    },
+    {
+        "label": "spam",
+        "text": "Zostałeś wytypowany do udziału w ekskluzywnej promocji!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoja paczka czeka na odbiór – potwierdź dane!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainwestuj 100 zł i zarób 10 000 zł w tydzień!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap tej okazji – ostatnia szansa!"
+    },
+    {
+        "label": "spam",
+        "text": "Wygrałeś iPhone'a – kliknij, aby odebrać!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap – specjalna nagroda czeka na Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Twój numer został wybrany – sprawdź szczegóły!"
+    },
+    {
+        "label": "spam",
+        "text": "Twój numer został wybrany – sprawdź szczegóły!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto e-mail zostało wytypowane do nagrody!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymujesz to zaproszenie, ponieważ zostałeś wybrany!"
+    },
+    {
+        "label": "spam",
+        "text": "Zarejestruj się teraz i otrzymaj bonus 100 zł!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymujesz to zaproszenie, ponieważ zostałeś wybrany!"
+    },
+    {
+        "label": "spam",
+        "text": "Twój numer został wybrany – sprawdź szczegóły!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap – specjalna nagroda czeka na Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Zarejestruj się teraz i otrzymaj bonus 100 zł!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nieodebraną przesyłkę – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Pilna wiadomość – Twój rachunek został zablokowany!"
+    },
+    {
+        "label": "spam",
+        "text": "Kliknij tutaj, aby potwierdzić wygraną!"
+    },
+    {
+        "label": "spam",
+        "text": "Tylko dzisiaj – wyjątkowa oferta dla Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Potwierdź swoje dane, aby uniknąć blokady konta!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto wymaga natychmiastowej weryfikacji!"
+    },
+    {
+        "label": "spam",
+        "text": "Potwierdź swoje dane, aby uniknąć blokady konta!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto wymaga natychmiastowej weryfikacji!"
+    },
+    {
+        "label": "spam",
+        "text": "Wygrałeś iPhone'a – kliknij, aby odebrać!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap – specjalna nagroda czeka na Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Kliknij tutaj, aby potwierdzić wygraną!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymasz prezent za udział w ankiecie!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymasz prezent za udział w ankiecie!"
+    },
+    {
+        "label": "spam",
+        "text": "Potwierdź swoje dane, aby uniknąć blokady konta!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymujesz to zaproszenie, ponieważ zostałeś wybrany!"
+    },
+    {
+        "label": "spam",
+        "text": "Twój numer został wybrany – sprawdź szczegóły!"
+    },
+    {
+        "label": "spam",
+        "text": "Gratulacje! Zostałeś wybrany jako zwycięzca!"
+    },
+    {
+        "label": "spam",
+        "text": "Zostałeś wytypowany do udziału w ekskluzywnej promocji!"
+    },
+    {
+        "label": "spam",
+        "text": "Zdobądź darmową kartę podarunkową już teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainwestuj 100 zł i zarób 10 000 zł w tydzień!"
+    },
+    {
+        "label": "spam",
+        "text": "Zarejestruj się teraz i otrzymaj bonus 100 zł!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto wymaga natychmiastowej weryfikacji!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainwestuj 100 zł i zarób 10 000 zł w tydzień!"
+    },
+    {
+        "label": "spam",
+        "text": "Kliknij tutaj, aby potwierdzić wygraną!"
+    },
+    {
+        "label": "spam",
+        "text": "Odzyskaj dostęp do swojego konta – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Ekskluzywna oferta tylko dla naszych subskrybentów!"
+    },
+    {
+        "label": "spam",
+        "text": "Ekskluzywna oferta tylko dla naszych subskrybentów!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoja paczka czeka na odbiór – potwierdź dane!"
+    },
+    {
+        "label": "spam",
+        "text": "Zostałeś wytypowany do udziału w ekskluzywnej promocji!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap – specjalna nagroda czeka na Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Wprowadź swoje dane i wygraj nagrodę główną!"
+    },
+    {
+        "label": "spam",
+        "text": "Potwierdź swoje dane, aby uniknąć blokady konta!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto wymaga natychmiastowej weryfikacji!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainstaluj tę aplikację i zacznij zarabiać!"
+    },
+    {
+        "label": "spam",
+        "text": "Zdobądź darmową kartę podarunkową już teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Ekskluzywna oferta tylko dla naszych subskrybentów!"
+    },
+    {
+        "label": "spam",
+        "text": "Zarejestruj się teraz i otrzymaj bonus 100 zł!"
+    },
+    {
+        "label": "spam",
+        "text": "Zdobądź darmową kartę podarunkową już teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap tej okazji – ostatnia szansa!"
+    },
+    {
+        "label": "spam",
+        "text": "Ekskluzywna oferta tylko dla naszych subskrybentów!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymujesz to zaproszenie, ponieważ zostałeś wybrany!"
+    },
+    {
+        "label": "spam",
+        "text": "Tylko dzisiaj – wyjątkowa oferta dla Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Zostałeś wytypowany do udziału w ekskluzywnej promocji!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoja paczka czeka na odbiór – potwierdź dane!"
+    },
+    {
+        "label": "spam",
+        "text": "Twój numer został wybrany – sprawdź szczegóły!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoja paczka czeka na odbiór – potwierdź dane!"
+    },
+    {
+        "label": "spam",
+        "text": "Wprowadź swoje dane i wygraj nagrodę główną!"
+    },
+    {
+        "label": "spam",
+        "text": "Zostałeś wytypowany do udziału w ekskluzywnej promocji!"
+    },
+    {
+        "label": "spam",
+        "text": "Wygrałeś iPhone'a – kliknij, aby odebrać!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto wymaga natychmiastowej weryfikacji!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nowe powiadomienie z banku – sprawdź teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainstaluj tę aplikację i zacznij zarabiać!"
+    },
+    {
+        "label": "spam",
+        "text": "Potwierdź swoje dane, aby uniknąć blokady konta!"
+    },
+    {
+        "label": "spam",
+        "text": "Zdobądź darmową kartę podarunkową już teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainstaluj tę aplikację i zacznij zarabiać!"
+    },
+    {
+        "label": "spam",
+        "text": "Wprowadź swoje dane i wygraj nagrodę główną!"
+    },
+    {
+        "label": "spam",
+        "text": "Twój numer został wybrany – sprawdź szczegóły!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto wymaga natychmiastowej weryfikacji!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nowe powiadomienie z banku – sprawdź teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Wygrałeś iPhone'a – kliknij, aby odebrać!"
+    },
+    {
+        "label": "spam",
+        "text": "Zarejestruj się teraz i otrzymaj bonus 100 zł!"
+    },
+    {
+        "label": "spam",
+        "text": "Zdobądź darmową kartę podarunkową już teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nieodebraną przesyłkę – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainstaluj tę aplikację i zacznij zarabiać!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap tej okazji – ostatnia szansa!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto e-mail zostało wytypowane do nagrody!"
+    },
+    {
+        "label": "spam",
+        "text": "Kliknij tutaj, aby potwierdzić wygraną!"
+    },
+    {
+        "label": "spam",
+        "text": "Tylko dzisiaj – wyjątkowa oferta dla Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Odzyskaj dostęp do swojego konta – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Wprowadź swoje dane i wygraj nagrodę główną!"
+    },
+    {
+        "label": "spam",
+        "text": "Zdobądź darmową kartę podarunkową już teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Twój numer został wybrany – sprawdź szczegóły!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap – specjalna nagroda czeka na Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymujesz to zaproszenie, ponieważ zostałeś wybrany!"
+    },
+    {
+        "label": "spam",
+        "text": "Odzyskaj dostęp do swojego konta – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap tej okazji – ostatnia szansa!"
+    },
+    {
+        "label": "spam",
+        "text": "Nieautoryzowana aktywność wykryta – działaj teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto wymaga natychmiastowej weryfikacji!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto e-mail zostało wytypowane do nagrody!"
+    },
+    {
+        "label": "spam",
+        "text": "Zdobądź darmową kartę podarunkową już teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nieodebraną przesyłkę – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Zostałeś wytypowany do udziału w ekskluzywnej promocji!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nieodebraną przesyłkę – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Wygrałeś iPhone'a – kliknij, aby odebrać!"
+    },
+    {
+        "label": "spam",
+        "text": "Zdobądź darmową kartę podarunkową już teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainstaluj tę aplikację i zacznij zarabiać!"
+    },
+    {
+        "label": "spam",
+        "text": "Twój numer został wybrany – sprawdź szczegóły!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainwestuj 100 zł i zarób 10 000 zł w tydzień!"
+    },
+    {
+        "label": "spam",
+        "text": "Kliknij tutaj, aby potwierdzić wygraną!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nowe powiadomienie z banku – sprawdź teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymasz prezent za udział w ankiecie!"
+    },
+    {
+        "label": "spam",
+        "text": "Wygrałeś iPhone'a – kliknij, aby odebrać!"
+    },
+    {
+        "label": "spam",
+        "text": "Zarejestruj się teraz i otrzymaj bonus 100 zł!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymasz prezent za udział w ankiecie!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nieodebraną przesyłkę – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Zostałeś wytypowany do udziału w ekskluzywnej promocji!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymasz prezent za udział w ankiecie!"
+    },
+    {
+        "label": "spam",
+        "text": "Twój numer został wybrany – sprawdź szczegóły!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto wymaga natychmiastowej weryfikacji!"
+    },
+    {
+        "label": "spam",
+        "text": "Ekskluzywna oferta tylko dla naszych subskrybentów!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nieodebraną przesyłkę – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoja paczka czeka na odbiór – potwierdź dane!"
+    },
+    {
+        "label": "spam",
+        "text": "Wprowadź swoje dane i wygraj nagrodę główną!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymujesz to zaproszenie, ponieważ zostałeś wybrany!"
+    },
+    {
+        "label": "spam",
+        "text": "Zostałeś wytypowany do udziału w ekskluzywnej promocji!"
+    },
+    {
+        "label": "spam",
+        "text": "Nieautoryzowana aktywność wykryta – działaj teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainstaluj tę aplikację i zacznij zarabiać!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nowe powiadomienie z banku – sprawdź teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Zostałeś wytypowany do udziału w ekskluzywnej promocji!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nieodebraną przesyłkę – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap tej okazji – ostatnia szansa!"
+    },
+    {
+        "label": "spam",
+        "text": "Gratulacje! Zostałeś wybrany jako zwycięzca!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto e-mail zostało wytypowane do nagrody!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymasz prezent za udział w ankiecie!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nowe powiadomienie z banku – sprawdź teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nowe powiadomienie z banku – sprawdź teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Ekskluzywna oferta tylko dla naszych subskrybentów!"
+    },
+    {
+        "label": "spam",
+        "text": "Kliknij tutaj, aby potwierdzić wygraną!"
+    },
+    {
+        "label": "spam",
+        "text": "Nieautoryzowana aktywność wykryta – działaj teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoja paczka czeka na odbiór – potwierdź dane!"
+    },
+    {
+        "label": "spam",
+        "text": "Odzyskaj dostęp do swojego konta – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainwestuj 100 zł i zarób 10 000 zł w tydzień!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap – specjalna nagroda czeka na Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto wymaga natychmiastowej weryfikacji!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto e-mail zostało wytypowane do nagrody!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nieodebraną przesyłkę – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Ekskluzywna oferta tylko dla naszych subskrybentów!"
+    },
+    {
+        "label": "spam",
+        "text": "Nieautoryzowana aktywność wykryta – działaj teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainstaluj tę aplikację i zacznij zarabiać!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymujesz to zaproszenie, ponieważ zostałeś wybrany!"
+    },
+    {
+        "label": "spam",
+        "text": "Gratulacje! Zostałeś wybrany jako zwycięzca!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto wymaga natychmiastowej weryfikacji!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainstaluj tę aplikację i zacznij zarabiać!"
+    },
+    {
+        "label": "spam",
+        "text": "Zostałeś wytypowany do udziału w ekskluzywnej promocji!"
+    },
+    {
+        "label": "spam",
+        "text": "Ekskluzywna oferta tylko dla naszych subskrybentów!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto e-mail zostało wytypowane do nagrody!"
+    },
+    {
+        "label": "spam",
+        "text": "Ekskluzywna oferta tylko dla naszych subskrybentów!"
+    },
+    {
+        "label": "spam",
+        "text": "Zdobądź darmową kartę podarunkową już teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Zdobądź darmową kartę podarunkową już teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Pilna wiadomość – Twój rachunek został zablokowany!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap tej okazji – ostatnia szansa!"
+    },
+    {
+        "label": "spam",
+        "text": "Tylko dzisiaj – wyjątkowa oferta dla Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap – specjalna nagroda czeka na Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Twój numer został wybrany – sprawdź szczegóły!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto e-mail zostało wytypowane do nagrody!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nieodebraną przesyłkę – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto e-mail zostało wytypowane do nagrody!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap – specjalna nagroda czeka na Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Wygrałeś iPhone'a – kliknij, aby odebrać!"
+    },
+    {
+        "label": "spam",
+        "text": "Twój numer został wybrany – sprawdź szczegóły!"
+    },
+    {
+        "label": "spam",
+        "text": "Twój numer został wybrany – sprawdź szczegóły!"
+    },
+    {
+        "label": "spam",
+        "text": "Kliknij tutaj, aby potwierdzić wygraną!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto e-mail zostało wytypowane do nagrody!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nieodebraną przesyłkę – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Tylko dzisiaj – wyjątkowa oferta dla Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Wygrałeś iPhone'a – kliknij, aby odebrać!"
+    },
+    {
+        "label": "spam",
+        "text": "Tylko dzisiaj – wyjątkowa oferta dla Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap tej okazji – ostatnia szansa!"
+    },
+    {
+        "label": "spam",
+        "text": "Potwierdź swoje dane, aby uniknąć blokady konta!"
+    },
+    {
+        "label": "spam",
+        "text": "Pilna wiadomość – Twój rachunek został zablokowany!"
+    },
+    {
+        "label": "spam",
+        "text": "Pilna wiadomość – Twój rachunek został zablokowany!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoja paczka czeka na odbiór – potwierdź dane!"
+    },
+    {
+        "label": "spam",
+        "text": "Wprowadź swoje dane i wygraj nagrodę główną!"
+    },
+    {
+        "label": "spam",
+        "text": "Odzyskaj dostęp do swojego konta – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nowe powiadomienie z banku – sprawdź teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Zarejestruj się teraz i otrzymaj bonus 100 zł!"
+    },
+    {
+        "label": "spam",
+        "text": "Zarejestruj się teraz i otrzymaj bonus 100 zł!"
+    },
+    {
+        "label": "spam",
+        "text": "Zostałeś wytypowany do udziału w ekskluzywnej promocji!"
+    },
+    {
+        "label": "spam",
+        "text": "Wprowadź swoje dane i wygraj nagrodę główną!"
+    },
+    {
+        "label": "spam",
+        "text": "Zdobądź darmową kartę podarunkową już teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto wymaga natychmiastowej weryfikacji!"
+    },
+    {
+        "label": "spam",
+        "text": "Zostałeś wytypowany do udziału w ekskluzywnej promocji!"
+    },
+    {
+        "label": "spam",
+        "text": "Kliknij tutaj, aby potwierdzić wygraną!"
+    },
+    {
+        "label": "spam",
+        "text": "Twój numer został wybrany – sprawdź szczegóły!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nowe powiadomienie z banku – sprawdź teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymujesz to zaproszenie, ponieważ zostałeś wybrany!"
+    },
+    {
+        "label": "spam",
+        "text": "Zarejestruj się teraz i otrzymaj bonus 100 zł!"
+    },
+    {
+        "label": "spam",
+        "text": "Zarejestruj się teraz i otrzymaj bonus 100 zł!"
+    },
+    {
+        "label": "spam",
+        "text": "Wygrałeś iPhone'a – kliknij, aby odebrać!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto e-mail zostało wytypowane do nagrody!"
+    },
+    {
+        "label": "spam",
+        "text": "Zarejestruj się teraz i otrzymaj bonus 100 zł!"
+    },
+    {
+        "label": "spam",
+        "text": "Kliknij tutaj, aby potwierdzić wygraną!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto wymaga natychmiastowej weryfikacji!"
+    },
+    {
+        "label": "spam",
+        "text": "Wygrałeś iPhone'a – kliknij, aby odebrać!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nieodebraną przesyłkę – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Zarejestruj się teraz i otrzymaj bonus 100 zł!"
+    },
+    {
+        "label": "spam",
+        "text": "Gratulacje! Zostałeś wybrany jako zwycięzca!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymasz prezent za udział w ankiecie!"
+    },
+    {
+        "label": "spam",
+        "text": "Ekskluzywna oferta tylko dla naszych subskrybentów!"
+    },
+    {
+        "label": "spam",
+        "text": "Potwierdź swoje dane, aby uniknąć blokady konta!"
+    },
+    {
+        "label": "spam",
+        "text": "Gratulacje! Zostałeś wybrany jako zwycięzca!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymujesz to zaproszenie, ponieważ zostałeś wybrany!"
+    },
+    {
+        "label": "spam",
+        "text": "Twój numer został wybrany – sprawdź szczegóły!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nowe powiadomienie z banku – sprawdź teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nieodebraną przesyłkę – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainwestuj 100 zł i zarób 10 000 zł w tydzień!"
+    },
+    {
+        "label": "spam",
+        "text": "Ekskluzywna oferta tylko dla naszych subskrybentów!"
+    },
+    {
+        "label": "spam",
+        "text": "Potwierdź swoje dane, aby uniknąć blokady konta!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap – specjalna nagroda czeka na Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap – specjalna nagroda czeka na Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Twój numer został wybrany – sprawdź szczegóły!"
+    },
+    {
+        "label": "spam",
+        "text": "Zarejestruj się teraz i otrzymaj bonus 100 zł!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymujesz to zaproszenie, ponieważ zostałeś wybrany!"
+    },
+    {
+        "label": "spam",
+        "text": "Gratulacje! Zostałeś wybrany jako zwycięzca!"
+    },
+    {
+        "label": "spam",
+        "text": "Wygrałeś iPhone'a – kliknij, aby odebrać!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto wymaga natychmiastowej weryfikacji!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymujesz to zaproszenie, ponieważ zostałeś wybrany!"
+    },
+    {
+        "label": "spam",
+        "text": "Wprowadź swoje dane i wygraj nagrodę główną!"
+    },
+    {
+        "label": "spam",
+        "text": "Zdobądź darmową kartę podarunkową już teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainwestuj 100 zł i zarób 10 000 zł w tydzień!"
+    },
+    {
+        "label": "spam",
+        "text": "Tylko dzisiaj – wyjątkowa oferta dla Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Zostałeś wytypowany do udziału w ekskluzywnej promocji!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto e-mail zostało wytypowane do nagrody!"
+    },
+    {
+        "label": "spam",
+        "text": "Odzyskaj dostęp do swojego konta – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Odzyskaj dostęp do swojego konta – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Gratulacje! Zostałeś wybrany jako zwycięzca!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto e-mail zostało wytypowane do nagrody!"
+    },
+    {
+        "label": "spam",
+        "text": "Wprowadź swoje dane i wygraj nagrodę główną!"
+    },
+    {
+        "label": "spam",
+        "text": "Odzyskaj dostęp do swojego konta – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoja paczka czeka na odbiór – potwierdź dane!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap – specjalna nagroda czeka na Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Wygrałeś iPhone'a – kliknij, aby odebrać!"
+    },
+    {
+        "label": "spam",
+        "text": "Pilna wiadomość – Twój rachunek został zablokowany!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nowe powiadomienie z banku – sprawdź teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Zostałeś wytypowany do udziału w ekskluzywnej promocji!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto wymaga natychmiastowej weryfikacji!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto e-mail zostało wytypowane do nagrody!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainstaluj tę aplikację i zacznij zarabiać!"
+    },
+    {
+        "label": "spam",
+        "text": "Zostałeś wytypowany do udziału w ekskluzywnej promocji!"
+    },
+    {
+        "label": "spam",
+        "text": "Zdobądź darmową kartę podarunkową już teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Kliknij tutaj, aby potwierdzić wygraną!"
+    },
+    {
+        "label": "spam",
+        "text": "Gratulacje! Zostałeś wybrany jako zwycięzca!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainstaluj tę aplikację i zacznij zarabiać!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto wymaga natychmiastowej weryfikacji!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nieodebraną przesyłkę – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Zdobądź darmową kartę podarunkową już teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Nieautoryzowana aktywność wykryta – działaj teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Ekskluzywna oferta tylko dla naszych subskrybentów!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto e-mail zostało wytypowane do nagrody!"
+    },
+    {
+        "label": "spam",
+        "text": "Gratulacje! Zostałeś wybrany jako zwycięzca!"
+    },
+    {
+        "label": "spam",
+        "text": "Pilna wiadomość – Twój rachunek został zablokowany!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainwestuj 100 zł i zarób 10 000 zł w tydzień!"
+    },
+    {
+        "label": "spam",
+        "text": "Nieautoryzowana aktywność wykryta – działaj teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Odzyskaj dostęp do swojego konta – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymujesz to zaproszenie, ponieważ zostałeś wybrany!"
+    },
+    {
+        "label": "spam",
+        "text": "Gratulacje! Zostałeś wybrany jako zwycięzca!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap tej okazji – ostatnia szansa!"
+    },
+    {
+        "label": "spam",
+        "text": "Potwierdź swoje dane, aby uniknąć blokady konta!"
+    },
+    {
+        "label": "spam",
+        "text": "Gratulacje! Zostałeś wybrany jako zwycięzca!"
+    },
+    {
+        "label": "spam",
+        "text": "Ekskluzywna oferta tylko dla naszych subskrybentów!"
+    },
+    {
+        "label": "spam",
+        "text": "Tylko dzisiaj – wyjątkowa oferta dla Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Tylko dzisiaj – wyjątkowa oferta dla Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Zarejestruj się teraz i otrzymaj bonus 100 zł!"
+    },
+    {
+        "label": "spam",
+        "text": "Tylko dzisiaj – wyjątkowa oferta dla Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Zostałeś wytypowany do udziału w ekskluzywnej promocji!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainwestuj 100 zł i zarób 10 000 zł w tydzień!"
+    },
+    {
+        "label": "spam",
+        "text": "Wygrałeś iPhone'a – kliknij, aby odebrać!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymujesz to zaproszenie, ponieważ zostałeś wybrany!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainwestuj 100 zł i zarób 10 000 zł w tydzień!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainstaluj tę aplikację i zacznij zarabiać!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nowe powiadomienie z banku – sprawdź teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Wygrałeś iPhone'a – kliknij, aby odebrać!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap tej okazji – ostatnia szansa!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymasz prezent za udział w ankiecie!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap tej okazji – ostatnia szansa!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap tej okazji – ostatnia szansa!"
+    },
+    {
+        "label": "spam",
+        "text": "Odzyskaj dostęp do swojego konta – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Zainwestuj 100 zł i zarób 10 000 zł w tydzień!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nieodebraną przesyłkę – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto wymaga natychmiastowej weryfikacji!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap tej okazji – ostatnia szansa!"
+    },
+    {
+        "label": "spam",
+        "text": "Zdobądź darmową kartę podarunkową już teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymasz prezent za udział w ankiecie!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymujesz to zaproszenie, ponieważ zostałeś wybrany!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymujesz to zaproszenie, ponieważ zostałeś wybrany!"
+    },
+    {
+        "label": "spam",
+        "text": "Pilna wiadomość – Twój rachunek został zablokowany!"
+    },
+    {
+        "label": "spam",
+        "text": "Ekskluzywna oferta tylko dla naszych subskrybentów!"
+    },
+    {
+        "label": "spam",
+        "text": "Ekskluzywna oferta tylko dla naszych subskrybentów!"
+    },
+    {
+        "label": "spam",
+        "text": "Otrzymujesz to zaproszenie, ponieważ zostałeś wybrany!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto e-mail zostało wytypowane do nagrody!"
+    },
+    {
+        "label": "spam",
+        "text": "Odzyskaj dostęp do swojego konta – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Pilna wiadomość – Twój rachunek został zablokowany!"
+    },
+    {
+        "label": "spam",
+        "text": "Zdobądź darmową kartę podarunkową już teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap – specjalna nagroda czeka na Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Nie przegap tej okazji – ostatnia szansa!"
+    },
+    {
+        "label": "spam",
+        "text": "Pilna wiadomość – Twój rachunek został zablokowany!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nieodebraną przesyłkę – kliknij tutaj!"
+    },
+    {
+        "label": "spam",
+        "text": "Masz nowe powiadomienie z banku – sprawdź teraz!"
+    },
+    {
+        "label": "spam",
+        "text": "Tylko dzisiaj – wyjątkowa oferta dla Ciebie!"
+    },
+    {
+        "label": "spam",
+        "text": "Ekskluzywna oferta tylko dla naszych subskrybentów!"
+    },
+    {
+        "label": "spam",
+        "text": "Twój numer został wybrany – sprawdź szczegóły!"
+    },
+    {
+        "label": "spam",
+        "text": "Pilna wiadomość – Twój rachunek został zablokowany!"
+    },
+    {
+        "label": "spam",
+        "text": "Kliknij tutaj, aby potwierdzić wygraną!"
+    },
+    {
+        "label": "spam",
+        "text": "Wprowadź swoje dane i wygraj nagrodę główną!"
+    },
+    {
+        "label": "spam",
+        "text": "Twoje konto wymaga natychmiastowej weryfikacji!"
+    },
+    {
+        "label": "spam",
+        "text": "Zostałeś wytypowany do udziału w ekskluzywnej promocji!"
+    },
+    {
+        "label": "spam",
+        "text": "Zarejestruj się teraz i otrzymaj bonus 100 zł!"
+    },
+    {
+        "label": "spam",
+        "text": "Twój numer został wybrany – sprawdź szczegóły!"
+    },
+
+    { "label": "spam", "text": "Kup iPhone bez VAT – oferta ważna tylko dziś!" },
+    { "label": "spam", "text": "Pilne: Twoje konto PayPal wymaga aktualizacji!" },
+    { "label": "spam", "text": "Twoje hasło do Spotify wygasło – zresetuj je teraz!" },
+    { "label": "spam", "text": "Kliknij, aby odebrać prezent iPhone!" },
+    { "label": "spam", "text": "Kliknij, aby odebrać prezent smartwatch!" },
+    { "label": "spam", "text": "Ostatnia szansa na 91% rabatu na vouchera!" },
+    { "label": "spam", "text": "Gratulacje! Jesteś wybrany do programu Twojego e-maila!" },
+    { "label": "spam", "text": "Otrzymaj 30 dni darmowego Google Drive VIP!" },
+    { "label": "spam", "text": "Otrzymaj 30 dni darmowego Google Drive VIP!" },
+    { "label": "spam", "text": "Uwaga! Wykryto nietypowe logowanie do banku." },
+    { "label": "spam", "text": "Zyskaj dodatkowe 7069 zł miesięcznie pracując w domu!" },
+    { "label": "spam", "text": "Kup laptop bez VAT – oferta ważna tylko dziś!" },
+    { "label": "spam", "text": "Kliknij, aby odebrać prezent kartę podarunkową!" },
+    { "label": "spam", "text": "Zyskaj dodatkowe 9367 zł miesięcznie pracując w domu!" },
+    { "label": "spam", "text": "Ostatnia szansa na 61% rabatu na vouchera!" },
+    { "label": "spam", "text": "Kup kupon bez VAT – oferta ważna tylko dziś!" },
+    { "label": "spam", "text": "Ostatnia szansa na 61% rabatu na kartę podarunkową!" },
+    { "label": "spam", "text": "Odbierz bezpłatny e-book o zdrowym odżywianiu!" },
+    { "label": "spam", "text": "Zainstaluj aktualizację macOS – ważne!" },
+    { "label": "spam", "text": "Gratulacje! Jesteś wybrany do programu Netflix!" },
+    { "label": "spam", "text": "Otrzymaj 30 dni darmowego Netflix VIP!" },
+    { "label": "spam", "text": "Gratulacje! Jesteś wybrany do programu Netflix!" },
+    { "label": "spam", "text": "Wygrywasz 3414 złotych – odbierz nagrodę teraz!" },
+    { "label": "spam", "text": "Kup laptop bez VAT – oferta ważna tylko dziś!" },
+    { "label": "spam", "text": "Zyskaj dodatkowe 1349 zł miesięcznie pracując w domu!" },
+    { "label": "spam", "text": "Zwiększ swoje dochody dzięki Google Drive!" },
+    { "label": "spam", "text": "Ostatnia szansa na 60% rabatu na laptop!" },
+    { "label": "spam", "text": "Rejestracja na webinar o zarabianiu online – miejsca ograniczone!" },
+    { "label": "spam", "text": "Zwiększ swoje dochody dzięki Dropbox!" },
+    { "label": "spam", "text": "Zyskaj dodatkowe 3061 zł miesięcznie pracując w domu!" },
+    { "label": "spam", "text": "Kliknij, aby odebrać prezent słuchawki!" },
+    { "label": "spam", "text": "Uwaga! Wykryto nietypowe logowanie do Dropbox." },
+    { "label": "spam", "text": "Rejestracja na webinar o zarabianiu online – miejsca ograniczone!" },
+    { "label": "spam", "text": "Rejestracja na webinar o rozwijaniu firmy – miejsca ograniczone!" },
+    { "label": "spam", "text": "Zyskaj dodatkowe 7755 zł miesięcznie pracując w domu!" },
+    { "label": "spam", "text": "Ostatnia szansa na 73% rabatu na abonament!" },
+    { "label": "spam", "text": "Odbierz bezpłatny e-book o inwestowaniu!" },
+    { "label": "spam", "text": "Gratulacje! Jesteś wybrany do programu Google Drive!" },
+    { "label": "spam", "text": "Twoje hasło do Google Drive wygasło – zresetuj je teraz!" },
+    { "label": "spam", "text": "Odbierz bezpłatny e-book o inwestowaniu!" },
+    { "label": "spam", "text": "Pilne: Twoje konto Google Drive wymaga aktualizacji!" },
+    { "label": "spam", "text": "Zwiększ swoje dochody dzięki Spotify!" },
+    { "label": "spam", "text": "Odbierz bezpłatny e-book o zdrowym odżywianiu!" },
+    { "label": "spam", "text": "Odbierz bezpłatny e-book o zarabianiu online!" },
+    { "label": "spam", "text": "Ostatnia szansa na 89% rabatu na vouchera!" },
+    { "label": "spam", "text": "Kliknij, aby odebrać prezent smartwatch!" },
+    { "label": "spam", "text": "Zainstaluj aktualizację Android – ważne!" },
+    { "label": "spam", "text": "Kliknij, aby odebrać prezent iPhone!" },
+    { "label": "spam", "text": "Zainstaluj aktualizację Windows – ważne!" },
+    { "label": "spam", "text": "Kup laptop bez VAT – oferta ważna tylko dziś!" },
+    { "label": "spam", "text": "Uwaga! Wykryto nietypowe logowanie do Spotify." },
+    { "label": "spam", "text": "Pilne: Twoje konto Google Drive wymaga aktualizacji!" },
+    { "label": "spam", "text": "Zwiększ swoje dochody dzięki banku!" },
+    { "label": "spam", "text": "Odbierz bezpłatny e-book o zarabianiu online!" },
+    { "label": "spam", "text": "Uwaga! Wykryto nietypowe logowanie do PayPal." },
+    { "label": "spam", "text": "Ostatnia szansa na 52% rabatu na smartwatch!" },
+    { "label": "spam", "text": "Zyskaj dodatkowe 2820 zł miesięcznie pracując w domu!" },
+    { "label": "spam", "text": "Pilne: Twoje konto Google Drive wymaga aktualizacji!" },
+    { "label": "spam", "text": "Twoje hasło do banku wygasło – zresetuj je teraz!" },
+    { "label": "spam", "text": "Kup abonament bez VAT – oferta ważna tylko dziś!" },
+    { "label": "spam", "text": "Zdobądź darmowy kupon w ciągu 17 godzin!" },
+    { "label": "spam", "text": "Otrzymaj 30 dni darmowego PayPal VIP!" },
+    { "label": "spam", "text": "Twoje hasło do banku wygasło – zresetuj je teraz!" },
+    { "label": "spam", "text": "Wygrywasz 8366 złotych – odbierz nagrodę teraz!" },
+    { "label": "spam", "text": "Otrzymaj 30 dni darmowego Dropbox VIP!" },
+    { "label": "spam", "text": "Zdobądź darmowy smartwatch w ciągu 24 godzin!" },
+    { "label": "spam", "text": "Zdobądź darmowy karnet w ciągu 1 godzin!" },
+    { "label": "spam", "text": "Gratulacje! Jesteś wybrany do programu Spotify!" },
+    { "label": "spam", "text": "Gratulacje! Jesteś wybrany do programu Dropbox!" },
+    { "label": "spam", "text": "Otrzymaj 30 dni darmowego banku VIP!" },
+    { "label": "spam", "text": "Wygrywasz 9543 złotych – odbierz nagrodę teraz!" },
+    { "label": "spam", "text": "Pilne: Twoje konto Twojego e-maila wymaga aktualizacji!" },
+    { "label": "spam", "text": "Odbierz bezpłatny e-book o rozwijaniu firmy!" },
+    { "label": "spam", "text": "Zainstaluj aktualizację Android – ważne!" },
+    { "label": "spam", "text": "Kup karnet bez VAT – oferta ważna tylko dziś!" },
+    { "label": "spam", "text": "Zwiększ swoje dochody dzięki Dropbox!" },
+    { "label": "spam", "text": "Kup słuchawki bez VAT – oferta ważna tylko dziś!" },
+    { "label": "spam", "text": "Uwaga! Wykryto nietypowe logowanie do Spotify." },
+    { "label": "spam", "text": "Ostatnia szansa na 68% rabatu na laptop!" },
+    { "label": "spam", "text": "Ostatnia szansa na 66% rabatu na kupon!" },
+    { "label": "spam", "text": "Pilne: Twoje konto Google Drive wymaga aktualizacji!" },
+    { "label": "spam", "text": "Zainstaluj aktualizację Android – ważne!" },
+    { "label": "spam", "text": "Rejestracja na webinar o inwestowaniu – miejsca ograniczone!" },
+    { "label": "spam", "text": "Odbierz bezpłatny e-book o rozwijaniu firmy!" },
+    { "label": "spam", "text": "Ostatnia szansa na 56% rabatu na vouchera!" },
+    { "label": "spam", "text": "Kup kartę podarunkową bez VAT – oferta ważna tylko dziś!" },
+    { "label": "spam", "text": "Ostatnia szansa na 88% rabatu na kupon!" },
+    { "label": "spam", "text": "Wygrywasz 4406 złotych – odbierz nagrodę teraz!" },
+    { "label": "spam", "text": "Rejestracja na webinar o rozwijaniu firmy – miejsca ograniczone!" },
+    { "label": "spam", "text": "Rejestracja na webinar o marketingu sieciowym – miejsca ograniczone!" },
+    { "label": "spam", "text": "Zyskaj dodatkowe 412 zł miesięcznie pracując w domu!" },
+    { "label": "spam", "text": "Twoje hasło do Spotify wygasło – zresetuj je teraz!" },
+    { "label": "spam", "text": "Gratulacje! Jesteś wybrany do programu Netflix!" },
+    { "label": "spam", "text": "Kliknij, aby odebrać prezent vouchera!" },
+    { "label": "spam", "text": "Wygrywasz 3567 złotych – odbierz nagrodę teraz!" },
+    { "label": "spam", "text": "Ostatnia szansa na 60% rabatu na kartę podarunkową!" },
+    { "label": "spam", "text": "Uwaga! Wykryto nietypowe logowanie do Twojego e-maila." },
+    { "label": "spam", "text": "Wygrywasz 2097 złotych – odbierz nagrodę teraz!" },
+    { "label": "spam", "text": "Rejestracja na webinar o marketingu sieciowym – miejsca ograniczone!" },
+    { "label": "spam", "text": "Zdobądź darmowy słuchawki w ciągu 23 godzin!" },
+    { "label": "spam", "text": "Wygrywasz 4040 złotych – odbierz nagrodę teraz!" },
+    { "label": "spam", "text": "Zwiększ swoje dochody dzięki Twojego e-maila!" },
+    { "label": "spam", "text": "Odbierz bezpłatny e-book o marketingu sieciowym!" },
+    { "label": "spam", "text": "Uwaga! Wykryto nietypowe logowanie do Dropbox." },
+    { "label": "spam", "text": "Otrzymaj 30 dni darmowego Netflix VIP!" },
+    { "label": "spam", "text": "Kup iPhone bez VAT – oferta ważna tylko dziś!" },
+    { "label": "spam", "text": "Odbierz bezpłatny e-book o zarabianiu online!" },
+    { "label": "spam", "text": "Odbierz bezpłatny e-book o zarabianiu online!" },
+    { "label": "spam", "text": "Zainstaluj aktualizację Windows – ważne!" },
+    { "label": "spam", "text": "Zwiększ swoje dochody dzięki Google Drive!" },
+    { "label": "spam", "text": "Gratulacje! Jesteś wybrany do programu banku!" },
+    { "label": "spam", "text": "Zdobądź darmowy laptop w ciągu 16 godzin!" },
+    { "label": "spam", "text": "Zdobądź darmowy karnet w ciągu 22 godzin!" },
+    { "label": "spam", "text": "Zyskaj dodatkowe 7499 zł miesięcznie pracując w domu!" },
+    { "label": "spam", "text": "Odbierz bezpłatny e-book o rozwijaniu firmy!" },
+    { "label": "spam", "text": "Odbierz bezpłatny e-book o zarabianiu online!" },
+    { "label": "spam", "text": "Wygrywasz 415 złotych – odbierz nagrodę teraz!" },
+    { "label": "spam", "text": "Ostatnia szansa na 50% rabatu na karnet!" },
+    { "label": "spam", "text": "Odbierz bezpłatny e-book o rozwijaniu firmy!" },
+    { "label": "spam", "text": "Zainstaluj aktualizację Adobe Flash – ważne!" },
+    { "label": "spam", "text": "Zainstaluj aktualizację Windows – ważne!" },
+    { "label": "spam", "text": "Rejestracja na webinar o rozwijaniu firmy – miejsca ograniczone!" },
+    { "label": "spam", "text": "Wygrywasz 6740 złotych – odbierz nagrodę teraz!" },
+    { "label": "spam", "text": "Wygrywasz 3308 złotych – odbierz nagrodę teraz!" },
+    { "label": "spam", "text": "Twoje hasło do Twojego e-maila wygasło – zresetuj je teraz!" },
+    { "label": "spam", "text": "Odbierz bezpłatny e-book o zarabianiu online!" },
+    { "label": "spam", "text": "Zainstaluj aktualizację Windows – ważne!" },
+    { "label": "spam", "text": "Kup laptop bez VAT – oferta ważna tylko dziś!" },
+    { "label": "spam", "text": "Kliknij, aby odebrać prezent abonament!" },
+    { "label": "spam", "text": "Zdobądź darmowy karnet w ciągu 1 godzin!" },
+    { "label": "spam", "text": "Otrzymaj 30 dni darmowego banku VIP!" },
+    { "label": "spam", "text": "Wygrywasz 6390 złotych – odbierz nagrodę teraz!" },
+    { "label": "spam", "text": "Rejestracja na webinar o rozwijaniu firmy – miejsca ograniczone!" },
+    { "label": "spam", "text": "Zdobądź darmowy abonament w ciągu 6 godzin!" },
+    { "label": "spam", "text": "Otrzymaj 30 dni darmowego PayPal VIP!" },
+    { "label": "spam", "text": "Odbierz bezpłatny e-book o zarabianiu online!" },
+    { "label": "spam", "text": "Gratulacje! Jesteś wybrany do programu Spotify!" },
+    { "label": "spam", "text": "Zdobądź darmowy laptop w ciągu 17 godzin!" },
+    { "label": "spam", "text": "Zdobądź darmowy laptop w ciągu 9 godzin!" },
+    { "label": "spam", "text": "Zdobądź darmowy laptop w ciągu 7 godzin!" },
+    { "label": "spam", "text": "Kliknij, aby odebrać prezent karnet!" },
+    { "label": "spam", "text": "Uwaga! Wykryto nietypowe logowanie do Netflix." },
+    { "label": "spam", "text": "Zyskaj dodatkowe 3169 zł miesięcznie pracując w domu!" },
+    { "label": "spam", "text": "Kliknij, aby odebrać prezent smartwatch!" },
+    { "label": "spam", "text": "Rejestracja na webinar o zarabianiu online – miejsca ograniczone!" },
+    { "label": "spam", "text": "Rejestracja na webinar o rozwijaniu firmy – miejsca ograniczone!" },
+    { "label": "spam", "text": "Pilne: Twoje konto Twojego e-maila wymaga aktualizacji!" },
+    { "label": "spam", "text": "Wygrywasz 8249 złotych – odbierz nagrodę teraz!" },
+    { "label": "spam", "text": "Pilne: Twoje konto PayPal wymaga aktualizacji!" },
+    { "label": "spam", "text": "Zdobądź darmowy słuchawki w ciągu 14 godzin!" },
+    { "label": "spam", "text": "Pilne: Twoje konto banku wymaga aktualizacji!" },
+    { "label": "spam", "text": "Zdobądź darmowy karnet w ciągu 1 godzin!" },
+    { "label": "spam", "text": "Pilne: Twoje konto Twojego e-maila wymaga aktualizacji!" },
+    { "label": "spam", "text": "Odbierz bezpłatny e-book o marketingu sieciowym!" },
+    { "label": "spam", "text": "Gratulacje! Jesteś wybrany do programu Spotify!" },
+    { "label": "spam", "text": "Ostatnia szansa na 72% rabatu na smartwatch!" },
+    { "label": "spam", "text": "Pilne: Twoje konto Spotify wymaga aktualizacji!" },
+    { "label": "spam", "text": "Pilne: Twoje konto Netflix wymaga aktualizacji!" },
+    { "label": "spam", "text": "Zwiększ swoje dochody dzięki Twojego e-maila!" },
+    { "label": "spam", "text": "Twoje hasło do banku wygasło – zresetuj je teraz!" },
+    { "label": "spam", "text": "Kliknij, aby odebrać prezent smartwatch!" },
+    { "label": "spam", "text": "Wygrywasz 6208 złotych – odbierz nagrodę teraz!" },
+    { "label": "spam", "text": "Ostatnia szansa na 60% rabatu na laptop!" },
+    { "label": "spam", "text": "Kliknij, aby odebrać prezent słuchawki!" },
+    { "label": "spam", "text": "Kup karnet bez VAT – oferta ważna tylko dziś!" },
+    { "label": "spam", "text": "Otrzymaj 30 dni darmowego Spotify VIP!" },
+    { "label": "spam", "text": "Zdobądź darmowy laptop w ciągu 15 godzin!" },
+    { "label": "spam", "text": "Odbierz bezpłatny e-book o marketingu sieciowym!" },
+    { "label": "spam", "text": "Kup kupon bez VAT – oferta ważna tylko dziś!" },
+    { "label": "spam", "text": "Rejestracja na webinar o zarabianiu online – miejsca ograniczone!" },
+    { "label": "spam", "text": "Wygrywasz 690 złotych – odbierz nagrodę teraz!" },
+    { "label": "spam", "text": "Zwiększ swoje dochody dzięki Google Drive!" },
+    { "label": "spam", "text": "Zainstaluj aktualizację macOS – ważne!" },
+    { "label": "spam", "text": "Otrzymaj 30 dni darmowego Spotify VIP!" },
+    { "label": "spam", "text": "Ostatnia szansa na 56% rabatu na smartwatch!" },
+    { "label": "spam", "text": "Ostatnia szansa na 90% rabatu na abonament!" },
+    { "label": "spam", "text": "Zdobądź darmowy iPhone w ciągu 19 godzin!" },
+    { "label": "spam", "text": "Odbierz bezpłatny e-book o zdrowym odżywianiu!" },
+    { "label": "spam", "text": "Rejestracja na webinar o zdrowym odżywianiu – miejsca ograniczone!" },
+    { "label": "spam", "text": "Gratulacje! Jesteś wybrany do programu Spotify!" },
+    { "label": "spam", "text": "Gratulacje! Jesteś wybrany do programu Netflix!" },
+    { "label": "spam", "text": "Twoje hasło do PayPal wygasło – zresetuj je teraz!" },
+    { "label": "spam", "text": "Zdobądź darmowy smartwatch w ciągu 16 godzin!" },
+    { "label": "spam", "text": "Zwiększ swoje dochody dzięki PayPal!" },
+    { "label": "spam", "text": "Wygrywasz 1411 złotych – odbierz nagrodę teraz!" },
+    { "label": "spam", "text": "Zainstaluj aktualizację macOS – ważne!" },
+    { "label": "spam", "text": "Zyskaj dodatkowe 2686 zł miesięcznie pracując w domu!" },
+    { "label": "spam", "text": "Otrzymaj 30 dni darmowego Spotify VIP!" },
+    { "label": "spam", "text": "Twoje hasło do Google Drive wygasło – zresetuj je teraz!" },
+    { "label": "spam", "text": "Rejestracja na webinar o marketingu sieciowym – miejsca ograniczone!" },
+    { "label": "spam", "text": "Pilne: Twoje konto Google Drive wymaga aktualizacji!" },
+    { "label": "spam", "text": "Wygrywasz 386 złotych – odbierz nagrodę teraz!" },
+    { "label": "spam", "text": "Zainstaluj aktualizację Office – ważne!" },
+    { "label": "spam", "text": "Gratulacje! Jesteś wybrany do programu Spotify!" },
+    { "label": "spam", "text": "Zdobądź darmowy smartwatch w ciągu 17 godzin!" },
+    { "label": "spam", "text": "Gratulacje! Jesteś wybrany do programu Spotify!" },
+    { "label": "spam", "text": "Otrzymaj 30 dni darmowego banku VIP!" },
+    { "label": "spam", "text": "Pilne: Twoje konto PayPal wymaga aktualizacji!" },
+    { "label": "spam", "text": "Zwiększ swoje dochody dzięki Google Drive!" },
+    { "label": "spam", "text": "Kup iPhone bez VAT – oferta ważna tylko dziś!" },
+    { "label": "spam", "text": "Rejestracja na webinar o inwestowaniu – miejsca ograniczone!" },
+    { "label": "spam", "text": "Odbierz bezpłatny e-book o zdrowym odżywianiu!" },
+    { "label": "spam", "text": "Rejestracja na webinar o zdrowym odżywianiu – miejsca ograniczone!" },
+    { "label": "spam", "text": "Uwaga! Wykryto nietypowe logowanie do PayPal." },
+    { "label": "spam", "text": "Uwaga! Wykryto nietypowe logowanie do Twojego e-maila." },
+    { "label": "spam", "text": "Odbierz bezpłatny e-book o inwestowaniu!" },
+    { "label": "spam", "text": "Wygrywasz 9685 złotych – odbierz nagrodę teraz!" },
+    { "label": "spam", "text": "Gratulacje! Jesteś wybrany do programu Netflix!" },
+    { "label": "spam", "text": "Odbierz bezpłatny e-book o zdrowym odżywianiu!" },
+    { "label": "spam", "text": "Gratulacje! Jesteś wybrany do programu Twojego e-maila!" },
+    { "label": "spam", "text": "Ostatnia szansa na 68% rabatu na vouchera!" },
+    { "label": "spam", "text": "Gratulacje! Jesteś wybrany do programu Dropbox!" },
+    { "label": "spam", "text": "Zyskaj dodatkowe 4577 zł miesięcznie pracując w domu!" },
+    { "label": "spam", "text": "Zwiększ swoje dochody dzięki banku!" },
+    { "label": "spam", "text": "Kup vouchera bez VAT – oferta ważna tylko dziś!" },
+    { "label": "spam", "text": "Wygrywasz 7835 złotych – odbierz nagrodę teraz!" },
+    { "label": "spam", "text": "Ostatnia szansa na 76% rabatu na smartwatch!" },
+    { "label": "spam", "text": "Zainstaluj aktualizację Office – ważne!" },
+    { "label": "spam", "text": "Zdobądź darmowy kartę podarunkową w ciągu 11 godzin!" }
+]
